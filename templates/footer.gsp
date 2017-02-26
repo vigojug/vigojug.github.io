@@ -3,7 +3,7 @@
     <div id="footer">
       <div class="container">
         <div class="row">
-          <div class="col-md-8">
+          <div class="col-md-8 text-justify">
             <h4>Vigo Java User Group</h4> (ou Vigo JUG que é máis corto) é unha comunidade técnica nacida en Vigo co propósito de xuntar a profesionais e aficionados dispostos a compartir experiencias, aprender e divertirse cos linguaxes que se executan na JVM (Groovy, Scala, Kotlin, etc.). Principalmente as reunións e eventos van dirixidas a programadores, pero non se descartan colaboracións en sistemas o incluso de xestión de proxectos (sempre relacionados ca JVM, iso si).
           </div>
           <div class="col-md-offset-1 col-md-3">
