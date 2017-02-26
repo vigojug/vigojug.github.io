@@ -47,6 +47,11 @@ body {
   margin: 20px 0;
 }
 
+/* navbar "bar style" */
+.navbar-margin {
+    margin: 10px
+}
+
 /*code {
   font-size: 80%;
 }*/
