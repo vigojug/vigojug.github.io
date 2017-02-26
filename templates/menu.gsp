@@ -22,7 +22,7 @@
               <li><a href="/${post.uri}">${post.title}</a></li>
             <%}%>
             <li class="divider"></li>
-            <li><a href="${content.rootpath}${config.archive_file}">Ver más antiguos</a></li>
+            <li><a href="${content.rootpath}${config.archive_file}">Ver todos</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -35,7 +35,7 @@
                <li><a href="/tags/${tagWithCount[0]}.html">${tagWithCount[0]} (${tagWithCount[1]})</a></li>
             <%}%>
             <li class="divider"></li>
-            <li><a href="${content.rootpath}${config.archive_file}">Ver más antiguos</a></li>
+            <li><a href="${content.rootpath}${config.archive_file}">Ver todos</a></li>
           </ul>
         </li>
       </ul>
