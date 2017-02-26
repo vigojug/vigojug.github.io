@@ -15,7 +15,8 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="dropdown">
+              <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>meetings.html">Charlas</a></li>
+              <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Archivo <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <%published_posts.take(10).each {post ->%>
@@ -23,11 +24,8 @@
                 <%}%>
                 <li class="divider"></li>
                 <li><a href="${content.rootpath}${config.archive_file}">Ver más antiguos</a></li>
-
-
               </ul>
             </li>
-
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>${config.feed_file}">Feed RSS</a></li>
