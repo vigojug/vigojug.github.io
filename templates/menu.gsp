@@ -19,7 +19,7 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Archivo <b class="caret"></b></a>
           <ul class="dropdown-menu">
             <%published_posts.take(10).each {post ->%>
-                <li><a href="${post.uri}">${post.title}</a></li>
+                <li><a href="/${post.uri}">${post.title}</a></li>
             <%}%>
             <li class="divider"></li>
             <li><a href="${content.rootpath}${config.archive_file}">Ver más antiguos</a></li>
