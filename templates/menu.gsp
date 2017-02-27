@@ -34,8 +34,6 @@
                       .each    { tagWithCount ->  %>
                <li><a href="/tags/${tagWithCount[0]}.html">${tagWithCount[0]} (${tagWithCount[1]})</a></li>
             <%}%>
-            <li class="divider"></li>
-            <li><a href="${content.rootpath}${config.archive_file}">Ver todos</a></li>
           </ul>
         </li>
       </ul>

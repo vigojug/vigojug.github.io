@@ -7,7 +7,14 @@
 	<div class="row">
 		<div class="col-md-9">
 			<div class="col-md-12 siteblock">
-				<h2>${content.title}</h2>
+				<div class="text-center">
+					<h2>${content.title}</h2>
+					<small>
+						| <%content.tags.each {tag ->%>
+              <a href="/tags/${tag}">${tag}</a> |
+            <%}%>
+					</small>
+				</div>
 				<hr/>
 				<div class="text-justify">${content.body}</div>
 				<hr/>
