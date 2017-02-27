@@ -5,7 +5,7 @@
   <div class="container">
 
     <div class="row">
-			<div class="col-md-10 col-md-offset-1 siteblock">
+			<div class="col-md-12 siteblock text-center">
         <img src="images/banner.png">
       </div>
     </div>
