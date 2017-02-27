@@ -24,11 +24,9 @@
     	    <p>Older posts are available in the <a href="${content.rootpath}${config.archive_file}">archive</a>.</p>
         </div>
       </div>
-      <div class="col-md-3">
-         <div class="col-md-12 siteblock">
-           <%include "sidekick.gsp"%>
-         </div>
-      </div>
+      <div class="col-md-3 siteblock">
+  			<%include "sidekick.gsp"%>
+  		</div>
     </div>
     <div id="push"></div>
   </div>

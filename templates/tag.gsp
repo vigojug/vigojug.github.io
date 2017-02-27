@@ -35,10 +35,8 @@
 				</span>
 			</div>
 		</div>
-		<div class="col-md-3">
-			<div class="col-md-12 siteblock">
-				<%include "sidekick.gsp"%>
-			</div>
+		<div class="col-md-3 siteblock">
+			<%include "sidekick.gsp"%>
 		</div>
 	</div>
 	<div id="push"></div>
