@@ -10,7 +10,6 @@
 				<h2>Tag: ${tag}</h2>
 				<hr/>
 
-				<!--<ul>-->
 					<%def last_month=null;%>
 					<%tag_posts.each {post ->%>
 					<%if (last_month) {%>

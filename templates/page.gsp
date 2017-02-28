@@ -7,7 +7,7 @@
 	<div class="row">
 		<div class="col-md-9">
 			<div class="col-md-12 siteblock">
-				<h2>${content.title}</h2>
+				<h2 class="text-center">${content.title}</h2>
 				<hr/>
 				<div class="text-justify">${content.body}</div>
 				<hr/>
