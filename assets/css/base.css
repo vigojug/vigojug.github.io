@@ -70,3 +70,20 @@ body {
   text-decoration: none;
   color: #2c3e50;
 }
+
+/* Make meetup iframe responsive friendly */
+.meetup-block {
+  height: 400px;
+  position: relative;
+  margin: 10px 0;
+}
+
+.meetup-iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  width: 225px;
+}
