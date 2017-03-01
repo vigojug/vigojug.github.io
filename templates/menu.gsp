@@ -1,34 +1,46 @@
-	<!-- Fixed navbar -->
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>">JBake</a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>index.html">Home</a></li>
-            <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>about.html">About</a></li>
-            <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>${config.feed_file}">Subscribe</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>index.html">
+        <img class="nav navbar-nav navbar-left" src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/logo.png"/>
+      </a>
+      <a class="navbar-brand" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>index.html">VigoJUG</a>
     </div>
-    <div class="container">
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>meetings.html">Charlas</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Archivo <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <%published_posts.take(10).each {post ->%>
+              <li><a href="/${post.uri}">${post.title}</a></li>
+            <%}%>
+            <li class="divider"></li>
+            <li><a href="${content.rootpath}${config.archive_file}">Ver todos</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tag's <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <% alltags.collect { tag -> [tag, posts.findAll { post -> post.tags.contains(tag)}.size()]}
+                      .sort    { tag -> String.format("%03d%s", 1000 - tag[1], tag[0].toLowerCase())}
+                      .take(10)
+                      .each    { tagWithCount ->  %>
+               <li><a href="/tags/${tagWithCount[0]}.html">${tagWithCount[0]} (${tagWithCount[1]})</a></li>
+            <%}%>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>${config.feed_file}">Feed RSS</a></li>
+        <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>about.html">Sobre VigoJUG</a></li>
+      </ul>
+    </div>
+  </div>
+</div>

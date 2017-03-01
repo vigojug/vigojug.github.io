@@ -1,15 +1,25 @@
 <%include "header.gsp"%>
 
-	<%include "menu.gsp"%>
-	
-	<div class="page-header">
-		<h1>${content.title}</h1>
+<%include "menu.gsp"%>
+
+<div class="container">
+
+	<div class="row">
+		<div class="col-md-9">
+			<div class="col-md-12 siteblock">
+				<h2 class="text-center">${content.title}</h2>
+				<hr/>
+				<div class="text-justify">${content.body}</div>
+				<hr/>
+				<span class="text-center">
+					<h6>Última actualización: ${new java.text.SimpleDateFormat("dd/MM/yyyy", Locale.ENGLISH).format(content.date)}</h6>
+				</span>
+			</div>
+		</div>
+		<div class="col-md-3 siteblock">
+			<%include "sidekick.gsp"%>
+		</div>
 	</div>
-
-	<p><em>${new java.text.SimpleDateFormat("dd MMMM yyyy", Locale.ENGLISH).format(content.date)}</em></p>
-
-	<p>${content.body}</p>
-
-	<hr />
-
+	<div id="push"></div>
+</div>
 <%include "footer.gsp"%>

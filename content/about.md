@@ -1,10 +1,11 @@
+
 title=O VigoJUG
-date=2017-02-25
+date=2017-02-28
 type=page
 status=published
 ~~~~~~
 
-## ¿Outro meetup en Vigo?. ¿De Java?
+## ¿Outro meetup en Vigo? ¿De Java?
 
 O grupo de usuarios Java de Vigo (ou VigoJUG) naceu na cidade en vista do enorme éxito acadado por outros grupos de tecnoloxía. É claro que o tema interesa e moitos dos participantes nun grupo participan nos outros. O obxectivo dos diferentes meetups son moi similares e hai moi bo rollo. É por iso que se daba unha situación un tanto estraña: algúns do que participamos en meetups de PHP, Python ou JS, usamos no noso dia a día Java... polo que había temas interesantes que ou non se trataban ou se facía pero sempre con certa sensación de "culpa".
 
@@ -28,6 +29,6 @@ A nosa idea é facer dúas charlas duns trinta minutos o derradeiro martes de ca
 
 Se non hai dúas charlas ou se fan moi pesadas, tentaremos meter outras actividades coma charlas cortas, facer unhas katas de programación, una sesión de "Java puzzlers" ou algo así, máis dinámico.
 
-Ademais diso, trataremos de facer workshops, hackathones, clubes de lectura.. o que se nos vaia ocorrendo. Se queres colaborar (sexa unha empresa ou individuo, manda un correo a organizers@vigojug.org.
+Ademais diso, trataremos de facer workshops, hackathones, clubes de lectura... o que se nos vaia ocorrendo. Se queres colaborar, sexa unha empresa ou individuo, manda un correo a organizers@vigojug.org.
 
-Aclarar que os organizadores do grupo non receben ningunha prestación, adican o seu tempo (e nalgún caso cartos) sen recibir nada material a cambio. 
+Aclarar que os organizadores do grupo non receben ningunha prestación, adican o seu tempo (e nalgún caso cartos) sen recibir nada material a cambio.
