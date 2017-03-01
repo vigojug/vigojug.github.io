@@ -1,0 +1,16 @@
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VigoJUG</title>
+    <link>http://www.vigojug.org</link>
+    <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Vigo Java User Group</description>
+    <language>es-es</language>
+    <pubDate>Wed, 1 Mar 2017 22:08:36 +0100</pubDate>
+    <lastBuildDate>Wed, 1 Mar 2017 22:08:36 +0100</lastBuildDate>
+
+    
+
+  </channel>
+</rss>
