@@ -72,18 +72,29 @@ body {
 }
 
 /* Make meetup iframe responsive friendly */
+
 .meetup-block {
-  height: 400px;
+  height: 480px;
   position: relative;
-  margin: 10px 0;
 }
 
 .meetup-iframe {
   position: absolute;
+  height: 450px;
+  margin: 10px 0;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
   width: 225px;
+<<<<<<< Updated upstream
+=======
+  overflow: hidden;
+}
+
+/* Remove col left gutter */
+.no-left-gutter {
+  padding-left: 0 !important;
+>>>>>>> Stashed changes
 }

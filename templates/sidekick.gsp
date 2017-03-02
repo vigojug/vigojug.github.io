@@ -1,5 +1,5 @@
 <div class="col-md-12 meetup-block">
-  <iframe height="400" class="meetup-iframe" src="http://meetu.ps/37hH78" frameborder="0"></iframe>
+  <iframe class="meetup-iframe" src="http://meetu.ps/37hH78" frameborder="0"></iframe>
 </div>
 
 <div class="col-md-12">
