@@ -7,9 +7,30 @@
     <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Vigo Java User Group</description>
     <language>es-es</language>
-    <pubDate>Wed, 1 Mar 2017 22:08:36 +0100</pubDate>
-    <lastBuildDate>Wed, 1 Mar 2017 22:08:36 +0100</lastBuildDate>
+    <pubDate>Thu, 2 Mar 2017 08:04:38 +0100</pubDate>
+    <lastBuildDate>Thu, 2 Mar 2017 08:04:38 +0100</lastBuildDate>
 
+    
+    <item>
+      <title>O primeiro meetup do VigoJUG</title>
+      <link>http://www.vigojug.org/blog/2017/20170301-first-meetup.html</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2017/20170301-first-meetup.html</guid>
+      <description>
+      &lt;p&gt;¡Xa temos axenda para a primeira charla do VigoJUG!&lt;/p&gt;
+&lt;p&gt;A idea é facer algo sinxelo, para dar a coñecer o grupo, e incluso ter algo de tempo para escoitar as vosas ideas. Tamén, pensando en que sendo a primeira pode haber erros, pensamos que é mellor empezar cos organizadores, así nos motivamos para facelo ben a primeira ;-)&lt;/p&gt;
+&lt;p&gt;A axenda consistirá en duas charlas de 30 minutos cada unha, ca seguinte temática:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+  &lt;p&gt;&lt;strong&gt;Make Java great again&lt;/strong&gt; (título elixido por votación no twitter): &lt;a href=&quot;https://twitter.com/tomasalmeida&quot;&gt;Tomás Dias Almeida&lt;/a&gt;, é enxeñeiro de software, con moita experiencia internacional en diferentes proxectos para grandes empresas e traballando para NetCentric, empresa internacional que aterrou fai pouco na cidade. A idea non é falar do importante que é Java, se non aclarar algúns falsos mitos, coñecer algunhas curiosidades da linguaxe e o futuro que pode ter unha linguaxe que ten máis de 20 anos.&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+  &lt;p&gt;&lt;strong&gt;De Groovy... e Sancho Panza&lt;/strong&gt;: &lt;a href=&quot;https://twitter.com/antonmry&quot;&gt;Antón Rodríguez Yuste&lt;/a&gt; é un enxeñeiro de teleco que leva varios anos a traballar para Optare Solutions, unha empresa local moi focalizada en proxectos para operadoras e con moita presencia internacional. Antón nos contará que é Groovy e os motivos para usalo con Java para facer xestión de dependencias (Gradle), probas unitarias (Spock) e de integración (Geb), despliegues (sshoogr), integración continua (Jenkinsfile), configuración (DSL) e outras moitas cousas divertidas.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;O meetup farase no Kaleido Coworking ( &lt;a href=&quot;https://www.python-vigo.es/ubicacionkaleidocoworking.png&quot;&gt;ubicación&lt;/a&gt; ) as 19:30 o mércores 29 de Marzo. O rexistro faise a través da páxina do &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/&quot;&gt;meetup&lt;/a&gt;. Se reservas unha praza e finalmente non podes ir, por favor libéraa con tempo para que outro poida collela.&lt;/p&gt;
+&lt;p&gt;O rematar, iremos tomar unas cervexas o bar do lado para charlar un rato e relaxarnos un pouco.&lt;/p&gt;
+&lt;p&gt;¡Anímate!&lt;/p&gt;
+	  </description>
+    </item>
     
 
   </channel>
