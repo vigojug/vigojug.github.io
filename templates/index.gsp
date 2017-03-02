@@ -11,7 +11,7 @@
   </div>
 
   <div class="row">
-    <div class="col-md-9">
+    <div class="col-md-9 no-left-gutter">
       <div class="col-md-12 siteblock">
         <%published_posts.take(5).each {post ->%>
   		    <a href="${post.uri}"><h1>${post.title}</h1></a>

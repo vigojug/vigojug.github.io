@@ -88,13 +88,10 @@ body {
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
   width: 225px;
-<<<<<<< Updated upstream
-=======
   overflow: hidden;
 }
 
 /* Remove col left gutter */
 .no-left-gutter {
   padding-left: 0 !important;
->>>>>>> Stashed changes
 }
