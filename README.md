@@ -7,6 +7,7 @@
 
 ## How to publish
 
+`rm -fr output/*` - make sure you generate a new version
 `jbake -b` - bake a new version
 `git subtree push --prefix=output git@github.com:vigojug/vigojug.github.io.git master` - publish web in master
 
