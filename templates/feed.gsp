@@ -1,5 +1,4 @@
-<% import static groovy.xml.XmlUtil.escapeXml %>
-<?xml version="1.0"?>
+<% import static groovy.xml.XmlUtil.escapeXml %><?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VigoJUG</title>
