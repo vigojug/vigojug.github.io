@@ -8,9 +8,8 @@
         <span class="icon-bar"></span>
       </button>
       <a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>index.html">
-        <img class="nav navbar-nav navbar-left" src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/logo.png"/>
+        <img class="nav navbar-nav navbar-left logo" src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/logo.png"/>
       </a>
-      <a class="navbar-brand" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>index.html">VigoJUG</a>
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">

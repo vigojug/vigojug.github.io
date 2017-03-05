@@ -5,13 +5,15 @@
 <div class="container">
 
   <div class="row">
-		<div class="col-md-12 siteblock text-center">
-      <img src="images/banner.png">
+		<div class="col-md-12 text-center">
+      <div class="col-md-12 siteblock">
+        <img src="images/banner.png">
+      </div>
     </div>
   </div>
 
   <div class="row">
-    <div class="col-md-9 no-left-gutter">
+    <div class="col-md-9">
       <div class="col-md-12 siteblock">
         <%published_posts.take(5).each {post ->%>
   		    <a href="${post.uri}"><h1>${post.title}</h1></a>
@@ -27,8 +29,10 @@
         </div>
       </div>
     </div>
-    <div class="col-md-3 siteblock">
-			<%include "sidekick.gsp"%>
+    <div class="col-md-3">
+      <div class="col-md-12 siteblock">
+		     <%include "sidekick.gsp"%>
+       </div>
 		</div>
   </div>
   <div id="push"></div>

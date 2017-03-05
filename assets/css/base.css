@@ -47,7 +47,7 @@ body {
 
 .siteblock {
   background-color: #FFFFFF;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 #footer {
@@ -89,7 +89,6 @@ body {
   overflow: hidden;
 }
 
-/* Remove col left gutter */
-.no-left-gutter {
-  padding-left: 0 !important;
+.logo {
+  padding-left: 30px;
 }
