@@ -16,7 +16,7 @@
     <div class="col-md-9">
       <div class="col-md-12 siteblock">
         <%published_posts.take(5).each {post ->%>
-  		    <a href="${post.uri}"><h1>${post.title}</h1></a>
+  		    <span class="text-center"><a href="${post.uri}"><h1>${post.title}</h1></a></span>
   		    <h6>${new java.text.SimpleDateFormat("dd/MM/yyyy", Locale.ENGLISH).format(post.date)}</h6>
   		    <p class="text-justify">${post.body}</p>
           <div class="text-center">
