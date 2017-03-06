@@ -29,8 +29,6 @@ body {
 /* Lastly, apply responsive CSS fixes as necessary */
 @media (max-width: 767px) {
   #footer {
-    margin-left: -20px;
-    margin-right: -20px;
     padding-left: 20px;
     padding-right: 20px;
   }
@@ -49,7 +47,7 @@ body {
 
 .siteblock {
   background-color: #FFFFFF;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 #footer {
@@ -69,4 +67,28 @@ body {
 #footer a:hover {
   text-decoration: none;
   color: #2c3e50;
+}
+
+/* Make meetup iframe responsive friendly */
+
+.meetup-block {
+  height: 480px;
+  position: relative;
+}
+
+.meetup-iframe {
+  position: absolute;
+  height: 450px;
+  margin: 10px 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  width: 225px;
+  overflow: hidden;
+}
+
+.logo {
+  padding-left: 30px;
 }
