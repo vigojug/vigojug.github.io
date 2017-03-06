@@ -5,8 +5,8 @@
 <div class="container">
 
 	<div class="row">
-		<div class="col-md-9">
-			<div class="col-md-12 siteblock">
+		<div class="col-md-8 col-lg-9">
+			<div class="siteblock">
 				<h2>Tag: ${tag}</h2>
 				<hr/>
 
@@ -34,8 +34,8 @@
 				</span>
 			</div>
 		</div>
-		<div class="col-md-3 siteblock">
-			<%include "sidekick.gsp"%>
+		<div class="col-md-4 col-lg-3">
+      <%include "sidekick.gsp"%>
 		</div>
 	</div>
 	<div id="push"></div>
