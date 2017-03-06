@@ -6,9 +6,23 @@
     <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Vigo Java User Group</description>
     <language>es-es</language>
-    <pubDate>Mon, 6 Mar 2017 08:29:58 +0100</pubDate>
-    <lastBuildDate>Mon, 6 Mar 2017 08:29:58 +0100</lastBuildDate>
+    <pubDate>Mon, 6 Mar 2017 20:57:17 +0100</pubDate>
+    <lastBuildDate>Mon, 6 Mar 2017 20:57:17 +0100</lastBuildDate>
 
+    
+    <item>
+      <title>VigoJUG no foro tecnolóxico</title>
+      <link>http://www.vigojug.org/blog/2017/20170306-vigojug-no-foro-tecnoloxico.html</link>
+      <pubDate>Mon, 6 Mar 2017 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2017/20170306-vigojug-no-foro-tecnoloxico.html</guid>
+      <description>
+      &lt;p&gt;O VigoJUG estará no &lt;a href=&quot;http://www.forotecnoloxico.net/infconf/#jueves&quot;&gt;Foro Tecnolóxico de emprego&lt;/a&gt; dando unha charla sobre os programadores no ámbito laboral con foco nos linguaxes da JVM pero tamén aberto a outras linguaxes e tecnoloxías. A idea é facer un repaso da situación do mercado laboral actual, vendo cales son as causas que fan que as empresas teñan agora mesmo tantos problemas para contratar programadores e como os novos enxeñeiros pódense aproveitar disto para encontrar unha mellor saída cando rematan a carreira.&lt;/p&gt;
+&lt;p&gt;Trátase de desmitificar a figura do programador mal pagado ou pouco integrado na sociedade, para mostrar que é unha opción digna e, en moitos caso, con moitas posibilidades.&lt;/p&gt;
+&lt;p&gt;Poñeranse exemplos de enxeñeiros galegos que se gañan a vida programando e tamén falarase de todo o movemento de meetups e grupos de tecnoloxía de Vigo: Python Vigo, GDG Vigo, Vigo Labs, PHPVigo , Javascript Vigo, Agile Vigo, SysAdminGalicia, VigoJUG, etc. e o que significan para a cidade en términos de formación, emprego e innovación.&lt;/p&gt;
+&lt;p&gt;Por último, para aqueles que desexen coñecer un pouco máis o mundo do desenvolvemento profesional, se describirán algúns recursos e ideas que poden axudar a introducirse neste mundillo.&lt;/p&gt;
+&lt;p&gt;A conferencia é orientada a Enxeñeiros da Uvigo pero aberta a todo o mundo. Farase no Seminario de Organizacion de la Escuela de Ingenieria Industrial de la Universidade de Vigo o Xoves de 11:00 a 11:45. Pódese consultar toda a información na &lt;a href=&quot;http://www.forotecnoloxico.net/infconf/#jueves&quot;&gt;páxina do Foro&lt;/a&gt; e apuntarvos &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/238220684/&quot;&gt;no evento de Meetup&lt;/a&gt;.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>O primeiro meetup do VigoJUG</title>
