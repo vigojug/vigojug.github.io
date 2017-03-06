@@ -1,8 +1,8 @@
 <div class="col-md-12 text-center">
   <h4>Colaboradores</h4>
-  <a href="http://www.jetbrains.com/"><img src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/logo_jetbrains.png"/></a>
   <a href="http://www.optaresolutions.com"><img src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/logo_optare.jpg"/></a>
   <a href="http://www.kaleidocoworking.com/"><img src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/logo_kaleido.png"/></a>
+  <a href="http://www.jetbrains.com/"><img src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/logo_jetbrains.png"/></a>
 </div>
 
 <div class="col-md-12 meetup-block">
