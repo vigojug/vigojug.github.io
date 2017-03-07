@@ -41,13 +41,22 @@ body {
 #wrap > .container {
   padding-top: 60px;
 }
+
 .container .credit {
   margin: 20px 0;
+}
+
+.header {
+  padding-top: 30px;
+}
+.header .header-banner {
+  width: 100%;
 }
 
 .siteblock {
   background-color: #FFFFFF;
   margin-top: 30px;
+  padding: 15px 20px;
 }
 
 #footer {
@@ -57,6 +66,10 @@ body {
 
 #footer .row {
   padding-top:10px;
+}
+
+#footer h4 {
+  color: #FFFFFF;
 }
 
 #footer a {
@@ -69,26 +82,57 @@ body {
   color: #2c3e50;
 }
 
-/* Make meetup iframe responsive friendly */
-
-.meetup-block {
-  height: 480px;
-  position: relative;
+h2, h3, h4, h5 {
+  margin: 0 0 15px;
+  color: #18bc9c;
 }
 
-.meetup-iframe {
-  position: absolute;
-  height: 450px;
-  margin: 10px 0;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -webkit-transform: translate(-50%, -50%);
-  -moz-transform: translate(-50%, -50%);
-  width: 225px;
-  overflow: hidden;
+h5 {
+  color: #222;
 }
 
+/* Partners */
+.partners-block {
+  text-align: center;
+}
+.partners-block a {
+  display: block;
+  margin: 20px auto;
+  width: 80%;
+  transition: transform .2s ease-in;
+  -webkit-transition: transform .2s ease-in;
+  -moz-transition: transform .2s ease-in;
+}
+.partners-block a:hover {
+  transform: scale(1.05, 1.05);
+  -webkit-transform: scale(1.05, 1.05);
+  -moz-transform: scale(1.05, 1.05);
+}
+.partners-block a img {
+  max-width: 260px;
+  width: 100%;
+}
+
+/* Logo */
 .logo {
-  padding-left: 30px;
+  margin: 0;
+}
+
+/* Meetup */
+.meetup-block {
+  text-align: center;
+  margin-top: 15px;
+}
+.meetup-iframe {
+  display: inline-block;
+  width: 227px;
+  height: 450px;
+  margin: 20px 0;
+}
+
+/* Content format */
+.more-posts {
+  font-size: 1.4em;
+  text-align: center;
+  margin: 10px 0 15px;
 }

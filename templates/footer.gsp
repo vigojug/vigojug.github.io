@@ -18,9 +18,9 @@
           </div>
         </div>
       </div>
-      <p class="muted credit text-center">
+      <div class="muted credit text-center">
         &copy; 2017 | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org">JBake ${version}</a>
-      </p>
+      </div>
     </div>
 
     <!-- Le javascript -->
