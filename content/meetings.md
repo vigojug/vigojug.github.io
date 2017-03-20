@@ -11,7 +11,7 @@ status=published
 
 **2017 - 25 de Abril - 19:30**
 
-- Reservada (presentación confirmada)
+- "Reactive programming con RxJava" por Saul Molinero. **30 min.**
 - "Introducción de Cassandra con Java" por Alejandro Moratinos de PDTE. **30 min.**
 
 **2017 - 30 de Maio - 19:30**
