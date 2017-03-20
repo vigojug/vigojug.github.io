@@ -2,18 +2,17 @@
 
 ## How to create a new page version
 
-`jbake -b` - bake a new version
-`jbake -s` - serve the current version (can be combined with -b)
+- bake a new version: `jbake -b`
+- serve the current version (can be combined with -b): `jbake -s` 
 
 ## How to publish
 
-`rm -fr output/*` - make sure you generate a new version
-`jbake -b` - bake a new version
-`git subtree push --prefix=output git@github.com:vigojug/vigojug.github.io.git master` - publish web in master
+- make sure you generate a new version: `rm -fr output/*` 
+- bake a new version: `jbake -b` 
+- publish web in master: `git subtree push --prefix=output git@github.com:vigojug/vigojug.github.io.git master` 
 
-If you've rebased some commits in source, then:
+If you've rebased some commits in source, to force the publication in master:
 
 ```
 git push origin `git subtree split --prefix output source`:master --force
 ```
-
