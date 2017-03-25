@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
       </button>
       <a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>index.html">
-        <img class="nav navbar-nav navbar-left logo" src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/logo.png"/>
+        <img class="nav navbar-nav navbar-left logo" src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>images/logo.png"/>
       </a>
     </div>
     <div class="navbar-collapse collapse">
