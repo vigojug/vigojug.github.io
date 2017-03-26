@@ -1,0 +1,44 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        maven { url 'https://plugins.gradle.org/m2/' }
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'me.champeau.gradle:jbake-gradle-plugin:0.3.0-SNAPSHOT'
+        classpath 'org.ajoberstar:grgit:1.1.0'
+        classpath "org.ajoberstar:gradle-git:1.5.0"
+        classpath 'org.kordamp.gradle:livereload-gradle-plugin:0.2.1'
+    }
+}
+
+apply plugin: 'me.champeau.jbake'
+apply plugin: 'idea'
+apply plugin: 'war'
+apply plugin: 'org.ajoberstar.github-pages'
+apply plugin: 'org.kordamp.gradle.livereload'
+
+
+jbake {
+    srcDirName = 'src/jbake'
+    destDirName = 'jbake'
+    clearCache = true
+    configuration['render.tag'] = 'true'
+}
+
+liveReload {
+    docRoot = "$buildDir/jbake"
+}
+
+// jbake in master, web published in gh-pages
+githubPages {
+    repoUri = 'git@github.com:vigojug/vigojug.github.io.git'
+    targetBranch = 'master'
+    pages {
+        from(file('build/jbake')) {
+            into '.'
+        }
+    }
+}

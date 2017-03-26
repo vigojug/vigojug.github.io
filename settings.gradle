@@ -1,0 +1,3 @@
+rootProject.name = 'VigoJUG'
+
+includeBuild '../jbake-gradle-plugin'
