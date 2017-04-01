@@ -11,8 +11,9 @@ status=published
 
 **2017 - 25 de Abril - 19:30**
 
-- "Reactive programming con RxJava" por  [Saúl Molinero](https://twitter.com/_saulmm) de [Potsy](https://www.mypopsy.com/) **30 min.**
-- "Introducción de Cassandra con Java" por [Alejandro Moratinos](https://www.linkedin.com/in/alejandro-moratinos-garc%C3%ADa-37395b2a/) de [NetCentric](http://www.netcentric.biz/) **30 min.**
+- "Introducción de Cassandra con Java" por [Alejandro Moratinos](https://www.linkedin.com/in/alejandro-moratinos-garc%C3%ADa-37395b2a/) de [Netcentric](http://www.netcentric.biz/) **30 min.**
+- "Reactive programming con RxJava" por  [Saúl Molinero](https://twitter.com/_saulmm) de [Popsy](https://www.mypopsy.com/) **30 min.**
+
 
 **2017 - 30 de Maio - 19:30**
 
