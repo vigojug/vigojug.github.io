@@ -4,7 +4,7 @@ type=page
 status=published
 ~~~~~~
 
-**2017 - 29 de Marzo - 19:30**
+**2017 - 29 de Marzo - 19:30: [Resumo](/blog/2017/20170401-first-meetup-summary.html)**
 
 - ["Make Java Great Again!](https://www.youtube.com/watch?v=PKqTlj38X7M) por [@tomasalmeida](http://www.about.me/tomasalmeida) de [Netcentric](http://www.netcentric.biz). **30 min.**
 - ["De Groovy... e Sancho Panza"](https://www.youtube.com/watch?v=smG2P6Esvnc) por [Antón Rodríguez](https://twitter.com/antonmry) de [Optare Solutions](https://www.optaresolutions.com) **30 min.**
