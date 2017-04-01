@@ -6,8 +6,8 @@ status=published
 
 **2017 - 29 de Marzo - 19:30**
 
-- [Make Java Great Again!](https://twitter.com/VigoJUG/status/834079553190502402) por [@tomasalmeida](http://www.about.me/tomasalmeida) de [Netcentric](http://www.netcentric.biz). **30 min.**
-- "De Groovy... e Sancho Panza" por [Antón Rodríguez](https://twitter.com/antonmry) de [Optare Solutions](https://www.optaresolutions.com) **30 min.**
+- ["Make Java Great Again!](https://www.youtube.com/watch?v=PKqTlj38X7M) por [@tomasalmeida](http://www.about.me/tomasalmeida) de [Netcentric](http://www.netcentric.biz). **30 min.**
+- ["De Groovy... e Sancho Panza"](https://www.youtube.com/watch?v=smG2P6Esvnc) por [Antón Rodríguez](https://twitter.com/antonmry) de [Optare Solutions](https://www.optaresolutions.com) **30 min.**
 
 **2017 - 25 de Abril - 19:30**
 
