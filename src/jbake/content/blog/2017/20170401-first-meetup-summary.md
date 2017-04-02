@@ -19,7 +19,7 @@ Despois Antón fixo unha introdución a Groovy co título **De Groovy... e Sanch
 <blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">Sigue <a href="https://twitter.com/antonmry">@antonmry</a>  con <a href="https://twitter.com/ApacheGroovy">@ApacheGroovy</a> <a href="https://t.co/ffYfuGEASQ">pic.twitter.com/ffYfuGEASQ</a></p>&mdash; Vigo JUG (@VigoJUG) <a href="https://twitter.com/VigoJUG/status/847146755271671814">March 29, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Finalmente, xogamos un [Kahoot](https://create.kahoot.it/#quiz/00581e67-0395-4f0f-baec-89457b50c0ec) que fixo os asistentes gastar os miolos. O gañador foi Vitor, que xa goza da sua licencia de JetBrains.
+Finalmente, xogamos un [Kahoot](https://create.kahoot.it/#quiz/00581e67-0395-4f0f-baec-89457b50c0ec) que fixo os asistentes gastar os miolos. O gañador foi Vitor, que xa goza da sua licencia de <a href="https://www.jetbrains.com/">JetBrains</a>.
 
 Para rematar, unhas cervexas no bar do lado do Kaleido, coma sempre, o mellor do Meetup.
 
