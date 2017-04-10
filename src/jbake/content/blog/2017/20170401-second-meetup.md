@@ -14,7 +14,7 @@ A continuación, virá [Saúl Molinero](https://twitter.com/_saulmm) de [Popsy](
 
 Ademais, o comezo, teremos unha pequena introdución do gañador do reto (¡o publicaremos en breve!) se hai quórum para facelo.
 
-O meetup farase no Kaleido Coworking ( [ubicación](https://www.python-vigo.es/ubicacionkaleidocoworking.png) ) as 19:30 o martes 25 de Abril. O rexistro faise a través da páxina do [meetup](https://www.meetup.com/Vigo-JUG/). **Se reservas unha praza e finalmente non podes ir, por favor libéraa con tempo para que outro poida collela**.
+O meetup farase no Kaleido Coworking ( [ubicación](https://www.python-vigo.es/ubicacionkaleidocoworking.png) ) as 19:30 o martes 2 de Maio. O rexistro faise a través da páxina do [meetup](https://www.meetup.com/Vigo-JUG/). **Se reservas unha praza e finalmente non podes ir, por favor libéraa con tempo para que outro poida collela**.
 
 O rematar, e como marca a tradición, iremos tomar unhas cervexas o bar do lado para charlar un rato e relaxarnos un pouco.
 
