@@ -23,4 +23,4 @@ Finalmente, xogamos un [Kahoot](https://create.kahoot.it/#quiz/00581e67-0395-4f0
 
 Para rematar, unhas cervexas no bar do lado do Kaleido, coma sempre, o mellor do Meetup.
 
-O meetup de Abril xa está listo, así que si queredes, xa vos podedes apuntar en [Meetup](https://www.meetup.com/Vigo-JUG/events/238878405/). Tamén, se tedes unha charla ou idea na cabeza, ¡falade con nos!.
+O meetup de Maio xa está listo, así que si queredes, xa vos podedes apuntar en [Meetup](https://www.meetup.com/Vigo-JUG/events/238878405/). Tamén, se tedes unha charla ou idea na cabeza, ¡falade con nos!.

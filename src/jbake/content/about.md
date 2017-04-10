@@ -25,7 +25,7 @@ Por último, o obxectivo máis importante (se iso non vai a funcionar: todo o qu
 
 ## As actividades
 
-A nosa idea é facer dúas charlas duns trinta minutos o derradeiro martes de cada mes. Serán un bo escaparate para as empresas locais, para que podamos coñecer o que fan. Este meetup mensual será o fío condutor do grupo e o que garanta a sua continuidade.
+A nosa idea é facer dúas charlas duns trinta minutos o primeiro martes de cada mes. Serán un bo escaparate para as empresas locais, para que podamos coñecer o que fan. Este meetup mensual será o fío condutor do grupo e o que garanta a sua continuidade.
 
 Se non hai dúas charlas ou se fan moi pesadas, tentaremos meter outras actividades coma charlas cortas, facer unhas katas de programación, una sesión de "Java puzzlers" ou algo así, máis dinámico.
 
