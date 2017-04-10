@@ -6,27 +6,9 @@
     <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Vigo Java User Group</description>
     <language>es-es</language>
-    <pubDate>Tue, 4 Apr 2017 22:45:12 +0200</pubDate>
-    <lastBuildDate>Tue, 4 Apr 2017 22:45:12 +0200</lastBuildDate>
+    <pubDate>Sat, 1 Apr 2017 16:14:35 +0200</pubDate>
+    <lastBuildDate>Sat, 1 Apr 2017 16:14:35 +0200</lastBuildDate>
 
-    
-    <item>
-      <title>O resumo do primeiro meetup</title>
-      <link>http://www.vigojug.org/blog/2017/20170401-first-meetup-summary.html</link>
-      <pubDate>Wed, 5 Apr 2017 00:00:00 +0200</pubDate>
-      <guid isPermaLink="false">blog/2017/20170401-first-meetup-summary.html</guid>
-      <description>
-      &lt;p&gt;Parece incrible pero xa pasou &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/238120078/&quot;&gt;o primeiro meetup do VigoJUG&lt;/a&gt;. Dende a organización, queremos darvos as gracias a todos: os asistentes, os sponsors e os outros grupos de Vigo que tanto axudaron a facer realidade o VigoJUG. Agradecer en especial a &lt;a href=&quot;https://github.com/dibanez&quot;&gt;David Ibañez&lt;/a&gt; o currazo de gravar, editar e subir os vídeos. Pasamos un bo rato xuntos e temos as pilas a tope para ir a por máis.&lt;/p&gt;
-&lt;p&gt;No meetup houbo uns 60 anotados, inda que non viu todo o mundo foi moito máis do que era a nosa previsión (sobre dez contando os poñentes)... así que en termos de asistencia e tendo en conta que foi o primeiro, non podemos estar máis contentos.&lt;/p&gt;
-&lt;p&gt;Empezamos cunha presentación do VigoJUG por Tomás, para xa entrar en materia ca sua charla, &lt;strong&gt;Make Java great again&lt;/strong&gt;, charla elixida por &lt;a href=&quot;https://twitter.com/VigoJUG/status/834079553190502402&quot;&gt;votación no twitter&lt;/a&gt;. A nota graciosa a puxo un repartidor que interrompeu a Tomás para entregar un paquete e un dos asistentes que matizou &quot;Tranquilos, é un paquete Java&quot;. A charla cubriu o pasado, presente e futuro de Java con anécdotas, trucos e curiosidades. A podedes ver en &lt;a href=&quot;https://www.youtube.com/watch?v=PKqTlj38X7M&quot;&gt;Youtube&lt;/a&gt; e tedes as slides no &lt;a href=&quot;https://github.com/vigojug/talk-vigojug-2017-make-java-great-again&quot;&gt;Github do VigoJUG&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/tomasalmeida&quot;&gt;@tomasalmeida&lt;/a&gt; é capaz de facer unha demo do Garbage Collector en calquera situación 😎 &lt;a href=&quot;https://t.co/BeCzAdD63y&quot;&gt;pic.twitter.com/BeCzAdD63y&lt;/a&gt;&lt;/p&gt;&amp;mdash; Vigo JUG (@VigoJUG) &lt;a href=&quot;https://twitter.com/VigoJUG/status/847143657039900673&quot;&gt;March 29, 2017&lt;/a&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;Despois Antón fixo unha introdución a Groovy co título &lt;strong&gt;De Groovy... e Sancho Panza&lt;/strong&gt;, comezando cas diferencias con Java 7 e 8 e seguindo por diferentes utilidades, tentando que todo o mundo puidera levarse algo da charla. Houbo algo de programación en directo, que sempre é de agradecer. Terminou falando do VigoJUG e presentando o reto, que se anunciará moi pronto. A charla a podes ver &lt;a href=&quot;https://www.youtube.com/watch?v=smG2P6Esvnc&quot;&gt;no canal Youtube do VigoJUG&lt;/a&gt; e as slides e código no &lt;a href=&quot;https://github.com/vigojug/talk-vigojug-2017-de-groovy-e-sancho-panza&quot;&gt;Github&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Sigue &lt;a href=&quot;https://twitter.com/antonmry&quot;&gt;@antonmry&lt;/a&gt; con &lt;a href=&quot;https://twitter.com/ApacheGroovy&quot;&gt;@ApacheGroovy&lt;/a&gt; &lt;a href=&quot;https://t.co/ffYfuGEASQ&quot;&gt;pic.twitter.com/ffYfuGEASQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Vigo JUG (@VigoJUG) &lt;a href=&quot;https://twitter.com/VigoJUG/status/847146755271671814&quot;&gt;March 29, 2017&lt;/a&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;Finalmente, xogamos un &lt;a href=&quot;https://create.kahoot.it/#quiz/00581e67-0395-4f0f-baec-89457b50c0ec&quot;&gt;Kahoot&lt;/a&gt; que fixo os asistentes gastar os miolos. O gañador foi Vitor, que xa goza da sua licencia de &lt;a href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Para rematar, unhas cervexas no bar do lado do Kaleido, coma sempre, o mellor do Meetup.&lt;/p&gt;
-&lt;p&gt;O meetup de Abril xa está listo, así que si queredes, xa vos podedes apuntar en &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/238878405/&quot;&gt;Meetup&lt;/a&gt;. Tamén, se tedes unha charla ou idea na cabeza, ¡falade con nos!.&lt;/p&gt;
-	  </description>
-    </item>
     
     <item>
       <title>O segundo meetup do VigoJUG</title>
