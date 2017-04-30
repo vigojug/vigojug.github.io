@@ -11,8 +11,8 @@
             <a href="https://twitter.com/vigojug" class="twitter-follow-button">Follow @vigojug</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br/>
             <a class="github-button" href="https://github.com/vigojug" data-count-href="/vigojug/followers" data-count-api="/users/vigojug#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @vigojug on GitHub">Follow @vigojug</a><br/>
             <script async defer src="https://buttons.github.io/buttons.js"></script>
-            <a href="http://phpvigo.slack.com">
-              <img src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/slack.png"> phpvigo.slack.com<br/>
+            <a href="https://slackin-vigotech.herokuapp.com/">
+              <img src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>/images/slack.png"> vigotechalliance.slack.com<br/>
               <ul>Canal: <b>#vigojug</b></ul>
             </a>
           </div>
