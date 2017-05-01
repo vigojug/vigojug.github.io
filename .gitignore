@@ -9,3 +9,4 @@
 build
 .gradle
 jbake-gradle-plugin
+id_rsa

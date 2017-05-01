@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vigojug/vigojug.github.io.svg?branch=source)](https://travis-ci.org/vigojug/vigojug.github.io)
+
 # VigoJUG
 
 This is the source for the [VigoJUG website](http://www.vigojug.org). The content is rendered using [JBake](http://jbake.org/), source is in the master branch and output is pushed on the master branch.
