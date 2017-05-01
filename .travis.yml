@@ -1,0 +1,16 @@
+language: groovy
+jdk:
+- oraclejdk7
+env:
+  global:
+  - SSH_KEY="id_rsa"
+  - GIT_NAME="VigoJUG"
+  - GIT_EMAIL="organizers@vigojug.org"
+  - SOURCE_DIR="build/jbake"
+  - DEPLOY_BRANCH="source"
+before_install:
+- openssl aes-256-cbc -K $encrypted_cffeb0720f61_key -iv $encrypted_cffeb0720f61_iv -in id_rsa.enc -out id_rsa -d
+script:
+- ./gradlew clean bake
+after_success:
+- ./gradlew publishGhPages
