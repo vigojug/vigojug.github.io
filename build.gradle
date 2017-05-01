@@ -32,6 +32,9 @@ liveReload {
     docRoot = "$buildDir/jbake"
 }
 
+project.ext['org.ajoberstar.grgit.auth.force'] = 'sshagent'
+project.ext['org.ajoberstar.grgit.auth.ssh.private'] = 'id_rsa'
+
 // jbake in master, web published in gh-pages
 githubPages {
     repoUri = 'git@github.com:vigojug/vigojug.github.io.git'
