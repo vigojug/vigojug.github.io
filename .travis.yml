@@ -14,4 +14,4 @@ before_install:
 script:
 - ./gradlew clean bake
 after_success:
-- ./gradlew publishGhPages
+- ./scripts/deploy.sh
