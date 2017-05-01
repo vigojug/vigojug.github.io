@@ -10,7 +10,7 @@ env:
   - DEPLOY_BRANCH="source"
 before_install:
 - openssl aes-256-cbc -K $encrypted_cffeb0720f61_key -iv $encrypted_cffeb0720f61_iv -in id_rsa.enc -out id_rsa -d
-- git clone https://github.com/jbake-org/jbake-gradle-plugin ../jbake-gradle-plugin
+- git clone git@github.com:vigojug/jbake-gradle-plugin.git ../jbake-gradle-plugin
 script:
 - ./gradlew clean bake
 after_success:
