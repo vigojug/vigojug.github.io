@@ -6,9 +6,31 @@
     <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Vigo Java User Group</description>
     <language>es-es</language>
-    <pubDate>Mon, 1 May 2017 08:34:23 +0000</pubDate>
-    <lastBuildDate>Mon, 1 May 2017 08:34:23 +0000</lastBuildDate>
+    <pubDate>Wed, 10 May 2017 13:13:54 +0000</pubDate>
+    <lastBuildDate>Wed, 10 May 2017 13:13:54 +0000</lastBuildDate>
 
+    
+    <item>
+      <title>O resumo do segundo meetup</title>
+      <link>http://www.vigojug.org/blog/2017/20170510-second-meetup-summary.html</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/2017/20170510-second-meetup-summary.html</guid>
+      <description>
+      &lt;p&gt;Esto marcha, parece incrible que xa esteamos a facer o resumo do segundo meetup, teñamos un workshop convocado, o segundo reto en marcha e xa vaiamos de camiño o terceiro meetup. Non podemos estar máis agradecidos a toda a comunidade. ¡Sodes uns cracks!.&lt;/p&gt;
+&lt;p&gt;Xa indo o tema, o segundo meetup empezou presentando &lt;a href=&quot;http://vigotech.org/&quot;&gt;VigoTech&lt;/a&gt;, unha iniciativa conxunta de todos os grupos. Se non visitaches a web, date unha volta e descobre todo o que Vigo pode ofrecerte de balde en temas de tecnoloxía e comunidade.&lt;/p&gt;
+&lt;p&gt;Tamén fixemos un sorteo para repartir as licencias de JetBrains entre a xente que se anima a facer unha charla. Anímate a facer unha, ¡é moi divertido!.&lt;/p&gt;
+&lt;p&gt;Despois anunciamos o gañador do reto, &lt;a href=&quot;https://github.com/migonzalvar&quot;&gt;Miguel&lt;/a&gt;, organizador do Python Vigo foi o vencedor pero tal e como se comentou, gañamos todos. O reto está a ser moi divertido e para todo o mundo xa que é modular e non fai falta facelo todo. Se te animas, o de Maio &lt;a href=&quot;https://github.com/vigojug/reto/tree/master/201705&quot;&gt;xa está lanzado&lt;/a&gt;. Non fai falta facelo completo e ninguén vai criticar o teu código: todos temos obrigas máis importantes que sumar arrays de enteiros. O tema é aprender e practicar un pouco máis.&lt;/p&gt;
+&lt;p&gt;A continuación, &lt;a href=&quot;https://www.linkedin.com/in/alejandro-moratinos-garc%C3%ADa-37395b2a/&quot;&gt;Alejandro Moratinos&lt;/a&gt; fixo unha introducción sobre a base de datos &lt;a href=&quot;http://cassandra.apache.org/&quot;&gt;Cassandra&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;pt&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/moraneko&quot;&gt;@moraneko&lt;/a&gt; empezando ca sua charla sobre &lt;a href=&quot;https://twitter.com/hashtag/Cassandra?src=hash&quot;&gt;#Cassandra&lt;/a&gt; e Java, todo o mundo moi atento! &lt;a href=&quot;https://t.co/5xMTf6fgCj&quot;&gt;pic.twitter.com/5xMTf6fgCj&lt;/a&gt;&lt;/p&gt;&amp;mdash; VigoJUG (@VigoJUG) &lt;a href=&quot;https://twitter.com/VigoJUG/status/859463453358075907&quot;&gt;May 2, 2017&lt;/a&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Unha charla moi informativa, con moita participación dos asistentes e boas pinceladas para coñecer de que vai esta Base de datos e as NoSQL en xeral. Alejandro tamén compartiu a sua experiencia con esta DB, os casos de uso e trucos. As slides da charla as podedes encontrar &lt;a href=&quot;https://github.com/vigojug/talk-vigojug-2017-Introduccion-de-Cassandra-con-Java&quot;&gt;no repo de Github&lt;/a&gt; e a podedes tamén ver en video en &lt;a href=&quot;https://www.youtube.com/watch?v=KHdVe9fOa-U&quot;&gt;Youtube&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A segunda charla a fixo &lt;a href=&quot;https://twitter.com/_saulmm&quot;&gt;Saul Molinero&lt;/a&gt;, un dos organizadores do &lt;a href=&quot;https://www.meetup.com/GDGVigo/&quot;&gt;GDGVigo&lt;/a&gt; e con moita experiencia no desenvolvemento de Android. A charla foi sobre Reactive programming con &lt;a href=&quot;https://github.com/ReactiveX/RxJava&quot;&gt;RxJava&lt;/a&gt; e tivo unha parte teórica e unha práctica. Sempre é de agradecer que os poñentes fagan algo de Live Coding. Non é doado pero Saul o fixo moi ben, nótase canto sabe do tema.&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;pt&quot; dir=&quot;ltr&quot;&gt;Agora &lt;a href=&quot;https://twitter.com/_saulmm&quot;&gt;@_saulmm&lt;/a&gt; cunha masterclass de RxJava! 🤗 &lt;a href=&quot;https://t.co/pInJBBnBPZ&quot;&gt;pic.twitter.com/pInJBBnBPZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; VigoJUG (@VigoJUG) &lt;a href=&quot;https://twitter.com/VigoJUG/status/859472780429058048&quot;&gt;May 2, 2017&lt;/a&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;As slides e código da charla están &lt;a href=&quot;https://github.com/vigojug/talk-vigojug-2017-Reactive-programming-con-RxJava&quot;&gt;no seu repo de Github&lt;/a&gt; e o video da charla en &lt;a href=&quot;https://www.youtube.com/watch?v=4yvSSZMHTZo&quot;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Para finalizar, fixemos un Kahoot. Esta vez o gañou María Bouzas, ¡parabéns!.&lt;/p&gt;
+&lt;p&gt;Despois, unhas cervexas no bar do lado. Coma sempre, ter un rato para falar ca xente e botarse unhas risas é o mellor do meetup.&lt;/p&gt;
+&lt;p&gt;Xa temos o seguinte Meetup convocado e tamén un workshop de iniciación, ¡non volos perdades!. Os podedes anotar &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/&quot;&gt;na nosa páxina do Meetup&lt;/a&gt;.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>O resumo do primeiro meetup</title>
