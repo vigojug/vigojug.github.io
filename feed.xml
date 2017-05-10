@@ -6,9 +6,43 @@
     <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Vigo Java User Group</description>
     <language>es-es</language>
-    <pubDate>Wed, 10 May 2017 13:13:54 +0000</pubDate>
-    <lastBuildDate>Wed, 10 May 2017 13:13:54 +0000</lastBuildDate>
+    <pubDate>Wed, 10 May 2017 13:27:26 +0000</pubDate>
+    <lastBuildDate>Wed, 10 May 2017 13:27:26 +0000</lastBuildDate>
 
+    
+    <item>
+      <title>O terceiro meetup do VigoJUG</title>
+      <link>http://www.vigojug.org/blog/2017/20170511-third-meetup.html</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/2017/20170511-third-meetup.html</guid>
+      <description>
+      &lt;p&gt;¿Xa estabades a botar en falta a convocatoria do terceiro meetup?. Pois aquí o vai... ¡e ven cargado!.&lt;/p&gt;
+&lt;p&gt;Pero antes, algúns recordatorios:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tedes o resumo e charlas gravadas do anterior (¡gracias &lt;a href=&quot;https://twitter.com/david_ibanez&quot;&gt;David&lt;/a&gt;!) na web do &lt;a href=&quot;http://www.vigojug.org/blog/2017/20170510-second-meetup-summary.html&quot;&gt;VigoJUG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;O &lt;a href=&quot;http://www.vigojug.org/reto.html&quot;&gt;reto do mes&lt;/a&gt; xa está lanzado, se non sabes o que é, bótalle un ollo, está sendo moi divertido. Tamén podes pedir axuda no &lt;a href=&quot;http://vigotech.org/&quot;&gt;Slack&lt;/a&gt;, ¡estamos para axudar!.&lt;/li&gt;
+  &lt;li&gt;As charlas están a ser un pouco complexas para a xente que se está iniciando. Non temos unha solución a curto prazo pero estamos facendo Workshops de iniciación para compensar. Xa te podes anotar no deste mes &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/239717467/&quot;&gt;na web do Meetup&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;E agora sí, as charlas do meetup de Xuño:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&quot;Introducción a Scala&quot; por &lt;a href=&quot;https://twitter.com/rubenrua&quot;&gt;@rubenrua&lt;/a&gt; &quot;The optimizator&quot; de &lt;a href=&quot;http://teltek.es&quot;&gt;Teltek Video Research&lt;/a&gt;. Rubén saltou a fama recentemente coma optimizador de ferramentas PHP pero xa era ben coñecido ns comunidades locais. É un apaixonado de Scala e a sua charla promete ser unha boa introdución as bondades e casos de uso do linguaxe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A presentación da charla:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Repaso de las características de este lenguaje de programación multi-paradigma que integra sutilmente principios de lenguajes funcionales y orientados a objetos.&lt;br/&gt;En esta charla no hablaremos de programación funcional pura o de álgebra de mónadas. Listaremos características pragmáticas de Scala que han servido de inspiración a muchos lenguajes. Seguro que lo que aprendas te servirá para tu próximo programa en Java 8, Kotlin, Scala (porque no? también hablaremos de esto)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;&quot;The monolith is dead, long live Microservices&quot; &lt;a href=&quot;https://twitter.com/vfdiaz&quot;&gt;@vfdiaz&lt;/a&gt; de &lt;a href=&quot;https://www.optaresolutions.com&quot;&gt;Optare Solutions&lt;/a&gt;. Vitor é un dos mellores enxeñeiros que coñecemos e unha persoa de moito peso nos equipos onde traballa, con moita experiencia en SpringBoot e, o máis importante, foi o gañador do primeiro Kahoot do VigoJUG con 9 de 10, ¡case nada!.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A presentación da charla:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;En una primera parte haremos un breve repaso sobre el desarrollo de aplicaciones Java a través del tiempo: Partiendo de las primeras aplicaciones &quot;empresariales&quot;, veremos el nacimiento de los servidores de aplicaciones, su evolución, los problemas a los que se enfrentan y su (posible) ocaso frente a las arquitecturas de Microservicios.&lt;br/&gt;En una segunda parte más práctica, veremos cómo Spring Boot nos ayuda a implementar esta arquitectura.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;O meetup farase no Kaleido Coworking ( &lt;a href=&quot;https://www.python-vigo.es/ubicacionkaleidocoworking.png&quot;&gt;ubicación&lt;/a&gt; ) as 19:30 o martes 6 de Xuño. O rexistro faise a través da páxina do &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/&quot;&gt;meetup&lt;/a&gt;. &lt;strong&gt;Se reservas unha praza e finalmente non podes ir, por favor libéraa con tempo para que outro poida collela&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;O rematar, e como marca a tradición, iremos tomar unhas cervexas o bar do lado para charlar un rato e relaxarnos un pouco.&lt;/p&gt;
+&lt;p&gt;¡Anímate!&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>O resumo do segundo meetup</title>
