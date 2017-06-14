@@ -1,5 +1,5 @@
 title=O reto
-date=2017-04-01
+date=2017-06-14
 type=page
 status=published
 ~~~~~~
@@ -15,10 +15,6 @@ Se queres participar pero tes dubidas, contacta no canal #VigoJUG da [VigoTech A
 - As solucións se enviarán en formato [Pull Request](https://help.github.com/articles/about-pull-requests/) o [repositorio do VigoJUG](https://github.com/vigojug/reto). O código fonte estará dentro dunha nova carpeta de nome o login de github do usuario que presenta a solución e dentro da carpeta onde se atopa o reto.
 
 - O README do repo actualizaráse cas novas PRs para que sexa doado revisalas.
-
-- Antes dunha semana da data do meetup, se poñerán as catro PRs con máis :+1: nunha enquisa no [Twitter do VigoJUG](https://twitter.com/VigoJUG).
-
-- A solución máis votada será a gañadora e a que presentará o reto na Meetup. Se non pode acudir, o fará a seguinte máis votada.
 
 - Todas as PRs se poñerán en master unha vez rematado o reto.
 

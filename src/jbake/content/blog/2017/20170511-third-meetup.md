@@ -28,6 +28,8 @@ A presentación da charla:
 > En una primera parte haremos un breve repaso sobre el desarrollo de aplicaciones Java a través del tiempo: Partiendo de las primeras aplicaciones "empresariales", veremos el nacimiento de los servidores de aplicaciones, su evolución, los problemas a los que se enfrentan y su (posible) ocaso frente a las arquitecturas de Microservicios.
 > En una segunda parte más práctica, veremos cómo Spring Boot nos ayuda a implementar esta arquitectura.
 
+![Cartel Scala](/images/carteis/cartel3.png)
+
 O meetup farase no Kaleido Coworking ( [ubicación](https://www.python-vigo.es/ubicacionkaleidocoworking.png) ) as 19:30 o martes 6 de Xuño. O rexistro faise a través da páxina do [meetup](https://www.meetup.com/Vigo-JUG/). **Se reservas unha praza e finalmente non podes ir, por favor libéraa con tempo para que outro poida collela**.
 
 O rematar, e como marca a tradición, iremos tomar unhas cervexas o bar do lado para charlar un rato e relaxarnos un pouco.
