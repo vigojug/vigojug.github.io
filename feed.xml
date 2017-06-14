@@ -6,9 +6,33 @@
     <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Vigo Java User Group</description>
     <language>es-es</language>
-    <pubDate>Wed, 10 May 2017 13:27:26 +0000</pubDate>
-    <lastBuildDate>Wed, 10 May 2017 13:27:26 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Jun 2017 20:22:11 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Jun 2017 20:22:11 +0000</lastBuildDate>
 
+    
+    <item>
+      <title>O cuarto meetup do VigoJUG: Kotlin, o Java para o século XXI</title>
+      <link>http://www.vigojug.org/blog/2017/20170614-forth-meetup.html</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/2017/20170614-forth-meetup.html</guid>
+      <description>
+      &lt;p&gt;En Xullo aínda non estamos de vacacións.. e vimos con un tema moi interesante: Kotlin. Unha linguaxe que Google anunciou fai pouco está soportada oficialmente en Android (xunto con Java) e que no ultimo ano escalou posicións de forma meteórica no índice Tiobe.&lt;/p&gt;
+&lt;p&gt;Ademais, teremos un poñente de luxo e moi coñecido na comunidade: Alberto Ruibal. Durante moitos anos petándoo en Google Play e agora nas filas dunha das empresas locais máis activas, Quobis.&lt;/p&gt;
+&lt;p&gt;A presentación da charla da man de Rui:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;O anuncio do Google I/O ven avalar aos moitos desenvolvedores e empresas que xa confiaban en Kotlin como a súa linguaxe principal para Android.&lt;/p&gt;
+  &lt;p&gt;Pero Kotlin vai moito máis alá de Android: é unha linguaxe da JVM 100% interoperable con Java que tamén pode transpilar a Javascript, compilar a nativo e incluso ser usada en scripts.&lt;/p&gt;
+  &lt;p&gt;Nesta charla discutiremos as características de Kotlin, irmá pequena de Scala, que fan dela unha linguaxe funcional moderna, segura, concisa e productiva, amosando un exemplo de cómo se migrou un código Java existente a Kotlin (o Carballo Chess Engine).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/images/carteis/cartel4.jpeg&quot; alt=&quot;Cartel Kotlin&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Unha vez rematada a charla de Alberto, faremos unha sesión de charlas cortas (5 minutos). Anímate e envianos a tua proposta a &lt;a href=&quot;mailto:organizers@vigojug.org&quot;&gt;organizers@vigojug.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O meetup farase no Kaleido Coworking ( &lt;a href=&quot;https://www.python-vigo.es/ubicacionkaleidocoworking.png&quot;&gt;ubicación&lt;/a&gt; ) as 19:30 o martes 4 de Xullo. O rexistro faise a través da páxina do &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/&quot;&gt;meetup&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;O rematar, e como marca a tradición, iremos tomar unhas cervexas o bar do lado para charlar un rato e relaxarnos un pouco.&lt;/p&gt;
+&lt;p&gt;¡Anímate!&lt;/p&gt;
+&lt;p&gt;P.D.: xa temos o reto de Xuño publicado &lt;a href=&quot;https://github.com/vigojug/reto/tree/master/201706&quot;&gt;en GitHub&lt;/a&gt;, anímate a mellorar un pouco os teus skills de programación, é moi divertido.&lt;/p&gt;
+&lt;p&gt;P.D.2: a volta do verán, faremos máis talleres de iniciación a programación orientada a obxetos ;-)&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>O terceiro meetup do VigoJUG</title>
@@ -38,6 +62,7 @@
 &lt;blockquote&gt;
   &lt;p&gt;En una primera parte haremos un breve repaso sobre el desarrollo de aplicaciones Java a través del tiempo: Partiendo de las primeras aplicaciones &quot;empresariales&quot;, veremos el nacimiento de los servidores de aplicaciones, su evolución, los problemas a los que se enfrentan y su (posible) ocaso frente a las arquitecturas de Microservicios.&lt;br/&gt;En una segunda parte más práctica, veremos cómo Spring Boot nos ayuda a implementar esta arquitectura.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/images/carteis/cartel3.png&quot; alt=&quot;Cartel Scala&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O meetup farase no Kaleido Coworking ( &lt;a href=&quot;https://www.python-vigo.es/ubicacionkaleidocoworking.png&quot;&gt;ubicación&lt;/a&gt; ) as 19:30 o martes 6 de Xuño. O rexistro faise a través da páxina do &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/&quot;&gt;meetup&lt;/a&gt;. &lt;strong&gt;Se reservas unha praza e finalmente non podes ir, por favor libéraa con tempo para que outro poida collela&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;O rematar, e como marca a tradición, iremos tomar unhas cervexas o bar do lado para charlar un rato e relaxarnos un pouco.&lt;/p&gt;
 &lt;p&gt;¡Anímate!&lt;/p&gt;
