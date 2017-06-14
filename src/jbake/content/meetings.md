@@ -4,7 +4,7 @@ type=page
 status=published
 ~~~~~~
 
-Normalmente o facemos o primeiro martes de cada mes. Tamén facemos talleres de iniciación os terceiros martes de cada mes.
+Normalmente as facemos o primeiro martes de cada mes. Tamén facemos [talleres de iniciación](/workshops.html) os terceiros martes de cada mes.
  
  As charlas e os talleres podeste apuntar [na nosa páxina de meetup](https://www.meetup.com/Vigo-JUG/).
 
