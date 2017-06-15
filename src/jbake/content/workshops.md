@@ -10,10 +10,9 @@ Normalmente os facemos o terceiro martes de cada mes. A diferencia [de moitas da
 
 ## Próximos:
 
-**2017 - 19 de Setembro  - 19:30**
+**2017 - 19 de Setembro  - 19:30** (sen convocar todavía)
 
-- "Kotlin, o Java para o século XXI" por [Alberto Ruibal](https://twitter.com/albertoruibal) de [mobialia](https://www.mobialia.com/) y [Quobis](https://www.quobis.com/) **45 min.**
-- Lightning talks
+- ["Taller de iniciación a Java e a programación orientada a obxectos II"](https://www.meetup.com/Vigo-JUG/) 
 
 ## Feitos
 
