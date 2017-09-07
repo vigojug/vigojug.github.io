@@ -10,24 +10,10 @@ Normalmente as facemos o primeiro martes de cada mes. Tamén facemos [talleres d
 
 ## Próximos:
 
-**2017 - 4 de Xullo  - 19:30**
-
-- "Kotlin, o Java para o século XXI" por [Alberto Ruibal](https://twitter.com/albertoruibal) de [mobialia](https://www.mobialia.com/) y [Quobis](https://www.quobis.com/) **45 min.**
-- Lightning talks
-
-**2017 Agosto**
-
-- Vacacións
-
-**2017 - 5 de Setembro - 19:30**
-
-- "Java 9 más allá de la modularidad" por [David Gomez Garcia](https://twitter.com/dgomezg) de [Autentia](https://www.autentia.com/) **45 min.**
-- Lightning talks
 
 **2017 - 3 de Outubro - 19:30**
 
-- "Pendiente de definir" por [Miguel García](https://www.linkedin.com/in/miguel-garcia-lorenzo-63a69b33/) de Oracle **45 min.**
-- Lightning talks
+- ["In-Memory Datagrid en arquitecturas de tiempo real"](https://www.meetup.com/Vigo-JUG/events/243175174/) por [Miguel García](https://www.linkedin.com/in/miguel-garcia-lorenzo-63a69b33/) de Oracle **45 min.**
 
 **2017 - 7 de Novembro - 19:30**
 
@@ -58,3 +44,11 @@ Normalmente as facemos o primeiro martes de cada mes. Tamén facemos [talleres d
 **2017 - 6 de Xuño - 19:30: [Slides](https://github.com/vigojug/talk-vigojug-2017-Introduccion-a-Scala)**
 
 - ["Introducción a Scala"](https://github.com/vigojug/talk-vigojug-2017-Introduccion-a-Scala) por [Ruben González](https://twitter.com/rubenrua) de [Teltek Video Research](http://teltek.es) 
+
+**2017 - 4 de Xullo  - 19:30: [Slides e código](https://github.com/vigojug/talk-vigojug-2017-Kotlin-o-java-do-seculo-XXI)**
+
+- "Kotlin, o Java para o século XXI" por [Alberto Ruibal](https://twitter.com/albertoruibal) de [mobialia](https://www.mobialia.com/) y [Quobis](https://www.quobis.com/)
+
+**2017 - 5 de Setembro - 19:30: [Slides](https://github.com/vigojug/talk-vigojug-2017-java-9-mas-alla-de-la-modularidad)**
+
+- "Java 9 más allá de la modularidad" por [David Gomez Garcia](https://twitter.com/dgomezg) de [Autentia](https://www.autentia.com/) 
