@@ -6,9 +6,53 @@
     <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Vigo Java User Group</description>
     <language>es-es</language>
-    <pubDate>Thu, 15 Jun 2017 20:48:21 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Jun 2017 20:48:21 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Sep 2017 20:53:02 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Sep 2017 20:53:02 +0000</lastBuildDate>
 
+    
+    <item>
+      <title>O sexto meetup do VigoJUG: "In-Memory Datagrid en arquitecturas de tiempo real"</title>
+      <link>http://www.vigojug.org/blog/2017/20170907-sixth-meetup.html</link>
+      <pubDate>Thu, 7 Sep 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/2017/20170907-sixth-meetup.html</guid>
+      <description>
+      &lt;p&gt;Anunciamos unha nova meetup, desta volta outra vez cun poñente que ven de fora (ainda que é ourensano), neste caso dende Barcelona, e de moita altura. &lt;a href=&quot;https://www.linkedin.com/in/miguel-garcia-lorenzo-63a69b33/&quot;&gt;Miguel García&lt;/a&gt; traballa para Oracle no rol de Arquitecto Cloud. É unha persoa con moito coñecemento en arquitectura de grandes sistemas e que pasou por grandes empresas (Tele2, Vodafone, Mercadona, Inditex). &lt;/p&gt;
+&lt;p&gt;A charla será para todo o mundo, se falará de patrones de arquitecturas e sistemas distribuidos en tempo real dende unha visión máis de iniciación ata profundizar. Ademáis, aínda que falará de Coherence (basado en Java), a charla é de utilidade noutros proxectos tamén.&lt;/p&gt;
+&lt;p&gt;A presentación da charla da man de Miguel:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;Actualmente las empresas necesitan gestionar un gran volumen de información y además hacerlo en tiempo real para poder tomar decisiones que les permitan anticiparse a las necesidades cambiantes tanto de sus clientes y como del mercado.&lt;/p&gt;
+  &lt;p&gt;En este contexto no solo podemos afirmar que las soluciones Big Data se han consolidado, sino que se encuentran en un proceso de innovación constante, esto contrasta con la apuesta del mercado por nuevas arquitecturas de tipo Fast Data y Lambda.&lt;/p&gt;
+  &lt;p&gt;En esta charla abordaremos el rol del componente “In-Memory Datagrid” dentro de las arquitecturas de tiempo real, así como una visión más técnica que incluye arquitecturas de referencia y la automatización de procesos de provisión de la plataforma.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;O meetup farase no Kaleido Coworking as 19:30 o martes 3 de Outubro. O rexistro faise a través da páxina do &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/243175174/&quot;&gt;Meetup&lt;/a&gt;. A duración estimada será de 45-60 minutos, ademáis das preguntas e o Kahoot ;-)&lt;/p&gt;
+&lt;p&gt;O rematar, e como marca a tradición, iremos tomar unhas cervexas o bar do lado para charlar un rato, relaxarnos un pouco e coñecernos.&lt;/p&gt;
+&lt;p&gt;¡Anímate!&lt;/p&gt;
+&lt;p&gt;P.D.: temos &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/241904216/&quot;&gt;un taller de iniciación (ou refresco!)&lt;/a&gt; xa axendado para o 19 de Setembro e &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/242795303/&quot;&gt;un taller de Troubleshooting na JVM&lt;/a&gt; o 10 de Outubro. &lt;/p&gt;
+	  </description>
+    </item>
+    
+    <item>
+      <title>O quinto meetup do VigoJUG: Java 9 más allá de la modularidad</title>
+      <link>http://www.vigojug.org/blog/2017/20170714-fifth-meetup.html</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/2017/20170714-fifth-meetup.html</guid>
+      <description>
+      &lt;p&gt;Anunciamos unha nova meetup, desta volta moi especial: un poñente que ven de fora e de moito nivel: &lt;a href=&quot;https://twitter.com/dgomezg&quot;&gt;David Gómez&lt;/a&gt;. Consultor Tecnolóxico en Autentia e poñente en eventos como Voxxed Days Zurich 2016, JBCNConf (2015, 2016 y 2017), Spring IO (2011, 2012 y 2015), Codemotion Madrid 2012, Mediterranea API Days 2013, DeCharlas (2010 y 2016); ademáis de charlas en varios meetups en Barcelona, Madrid, Castellón, Valencia e Málaga.&lt;/p&gt;
+&lt;p&gt;A charla, sobre Java 9, non é de iniciación, pero David fará o posible por poñer todo en contexto e a charla merece moito a pena para calquera que toque Java dalgún xeito.&lt;/p&gt;
+&lt;p&gt;A presentación da charla da man de David:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Java 9 está a punto de alcanzar su release pública tras algunos retrasos. Y, si preguntamos cuáles son las novedades que esta nueva versión incluirá, seguro que la primera que viene a nuestra cabeza es la modularidad.&lt;/p&gt;
+  &lt;p&gt;Pero en esta charla no hablaremos de Jigsaw ni de modularidad (al menos no mucho). En esta charla hablaremos de otras muchas características que incluye esta nueva versión de Java que son interesantes y que, quizá, acaben siendo más utilizadas que la propia modularidad para aquellos que abracen la nueva versión.&lt;/p&gt;
+  &lt;p&gt;Haremos un repaso desde los pequeños cambios en la sintaxis del lenguaje (como nuevas formas de uso del try-with-resources), cambios en las APIs de Colecciones y en los Streams, nuevas construcciones como los VarHandles (en sustitución de UnSafe), hasta nuevas APIs como el Flow API y como nos permite la inclusión de programación reactiva con Java.&lt;/p&gt;
+  &lt;p&gt;¿quieres ver qué hay en Java 9 más allá de la modularidad? ¿quieres tener una visión más completa de qué puede proporcionarte? ¡Ven y lo vemos!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/images/carteis/cartel5.jpeg&quot; alt=&quot;Cartel Autentia&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O meetup farase no Kaleido Coworking as 19:30 o martes 5 de Setembro. O rexistro faise a través da páxina do &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/242438812/&quot;&gt;Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O rematar, e como marca a tradición, iremos tomar unhas cervexas o bar do lado para charlar un rato e relaxarnos un pouco.&lt;/p&gt;
+&lt;p&gt;¡Anímate!&lt;/p&gt;
+&lt;p&gt;P.D.: temos &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/241904216/&quot;&gt;un taller de iniciación (ou refresco!)&lt;/a&gt; xa axendado para o 19 de Setembro.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>O cuarto meetup do VigoJUG: Kotlin, o Java para o século XXI</title>

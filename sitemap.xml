@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-    	<loc>http://www.vigojug.org/workshops.html</loc>
+    	<loc>http://www.vigojug.org/meetings.html</loc>
     	<lastmod>2017-06-14</lastmod>
     </url>
 
@@ -12,13 +12,23 @@
     </url>
 
     <url>
-    	<loc>http://www.vigojug.org/meetings.html</loc>
+    	<loc>http://www.vigojug.org/workshops.html</loc>
     	<lastmod>2017-06-14</lastmod>
     </url>
 
     <url>
     	<loc>http://www.vigojug.org/about.html</loc>
     	<lastmod>2017-02-28</lastmod>
+    </url>
+
+    <url>
+    	<loc>http://www.vigojug.org/blog/2017/20170907-sixth-meetup.html</loc>
+    	<lastmod>2017-09-07</lastmod>
+    </url>
+
+    <url>
+    	<loc>http://www.vigojug.org/blog/2017/20170714-fifth-meetup.html</loc>
+    	<lastmod>2017-07-14</lastmod>
     </url>
 
     <url>
