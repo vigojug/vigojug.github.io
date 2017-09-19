@@ -14,7 +14,8 @@
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>meetings.html">Charlas</a></li>
-          <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>workshops.html">Talleres de iniciación</a></li>
+          <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>workshops.html">Obradoiros
+          </a></li>
           <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>reto.html">O reto</a></li>
         <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>http://vigotech.org">VigoTech Alliance</a></li>
         <li class="dropdown">
