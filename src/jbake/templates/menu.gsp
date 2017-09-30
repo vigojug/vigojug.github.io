@@ -16,7 +16,7 @@
         <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>meetings.html">Charlas</a></li>
           <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>workshops.html">Obradoiros
           </a></li>
-          <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>reto.html">O reto</a></li>
+          <li><a href="http://www.vigotech.org/page/reto/">O reto</a></li>
         <li><a href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>http://vigotech.org">VigoTech Alliance</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Archivo <b class="caret"></b></a>
