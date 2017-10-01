@@ -18,11 +18,10 @@ Normalmente as facemos o primeiro martes de cada mes. Tamén facemos [talleres d
 **2017 - 7 de Novembro - 19:30**
 
 - "Microservices con SpringBoot" [@vfdiaz](https://twitter.com/vfdiaz) de [Optare Solutions](https://www.optaresolutions.com) **45 min.**
-- Lightning talks
 
 **2017 - 5 de Decembro - 19:30**
 
-- Noite de chicas Java (pendente de confirmar) 
+- "Desarrollo de videojuegos: minecraft" [Carmen San Martin](https://es.linkedin.com/in/carmensanmartin) de [CampTecGalicia](https://twitter.com/CampTecGalicia) **45 min.**
 
 **2018 - 2 de Xaneiro - 19:30**
 
@@ -49,6 +48,6 @@ Normalmente as facemos o primeiro martes de cada mes. Tamén facemos [talleres d
 
 - "Kotlin, o Java para o século XXI" por [Alberto Ruibal](https://twitter.com/albertoruibal) de [mobialia](https://www.mobialia.com/) y [Quobis](https://www.quobis.com/)
 
-**2017 - 5 de Setembro - 19:30: [Slides](https://github.com/vigojug/talk-vigojug-2017-java-9-mas-alla-de-la-modularidad)**
+**2017 - 5 de Setembro - 19:30: [Slides](https://www.slideshare.net/dgomezg/java9-beyond-modularity-java-9-ms-all-de-la-modularidad)**
 
 - "Java 9 más allá de la modularidad" por [David Gomez Garcia](https://twitter.com/dgomezg) de [Autentia](https://www.autentia.com/) 
