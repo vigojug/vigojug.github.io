@@ -10,18 +10,13 @@ Normalmente as facemos o primeiro martes de cada mes. Tamén facemos [talleres d
 
 ## Próximos:
 
-
-**2017 - 3 de Outubro - 19:30**
-
-- ["In-Memory Datagrid en arquitecturas de tiempo real"](https://www.meetup.com/Vigo-JUG/events/243175174/) por [Miguel García](https://www.linkedin.com/in/miguel-garcia-lorenzo-63a69b33/) de Oracle **45 min.**
-
 **2017 - 7 de Novembro - 19:30**
 
-- "Microservices con SpringBoot" [@vfdiaz](https://twitter.com/vfdiaz) de [Optare Solutions](https://www.optaresolutions.com) **45 min.**
+- "Microservices con SpringBoot" por [Vitor Fernández](https://twitter.com/vfdiaz) de [Optare Solutions](https://www.optaresolutions.com) **1 hora**
 
 **2017 - 5 de Decembro - 19:30**
 
-- "Desarrollo de videojuegos: minecraft" [Carmen San Martin](https://es.linkedin.com/in/carmensanmartin) de [CampTecGalicia](https://twitter.com/CampTecGalicia) **45 min.**
+- "Desarrollo de videojuegos: minecraft" [Carmen San Martin](https://es.linkedin.com/in/carmensanmartin) de [CampTecGalicia](https://twitter.com/CampTecGalicia) **1 hora**
 
 **2018 - 2 de Xaneiro - 19:30**
 
@@ -46,8 +41,12 @@ Normalmente as facemos o primeiro martes de cada mes. Tamén facemos [talleres d
 
 **2017 - 4 de Xullo  - 19:30: [Slides e código](https://github.com/vigojug/talk-vigojug-2017-Kotlin-o-java-do-seculo-XXI)**
 
-- "Kotlin, o Java para o século XXI" por [Alberto Ruibal](https://twitter.com/albertoruibal) de [mobialia](https://www.mobialia.com/) y [Quobis](https://www.quobis.com/)
+- ["Kotlin, o Java para o século XXI"](https://www.youtube.com/watch?v=8643WerUG-s&t=14s) por [Alberto Ruibal](https://twitter.com/albertoruibal) de [mobialia](https://www.mobialia.com/) y [Quobis](https://www.quobis.com/)
 
 **2017 - 5 de Setembro - 19:30: [Slides](https://www.slideshare.net/dgomezg/java9-beyond-modularity-java-9-ms-all-de-la-modularidad)**
 
 - "Java 9 más allá de la modularidad" por [David Gomez Garcia](https://twitter.com/dgomezg) de [Autentia](https://www.autentia.com/) 
+
+**2017 - 3 de Outubro - 19:30**
+
+- ["In-Memory Datagrid en arquitecturas de tiempo real"](https://www.youtube.com/watch?v=fX1fzZPHaVU&t=3s) por [Miguel García](https://www.linkedin.com/in/miguel-garcia-lorenzo-63a69b33/) de [Oracle](https://www.oracle.com) 
