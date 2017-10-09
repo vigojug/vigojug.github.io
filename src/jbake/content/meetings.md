@@ -12,7 +12,7 @@ Normalmente as facemos o primeiro martes de cada mes. Tamén facemos [talleres d
 
 **2017 - 7 de Novembro - 19:30**
 
-- "Microservices con SpringBoot" por [Vitor Fernández](https://twitter.com/vfdiaz) de [Optare Solutions](https://www.optaresolutions.com) **1 hora**
+- ["Microservices con SpringBoot"](https://www.meetup.com/Vigo-JUG/events/244060357/) por [Vitor Fernández](https://twitter.com/vfdiaz) de [Optare Solutions](https://www.optaresolutions.com) **1 hora**
 
 **2017 - 5 de Decembro - 19:30**
 
