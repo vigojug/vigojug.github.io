@@ -6,9 +6,29 @@
     <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Vigo Java User Group</description>
     <language>es-es</language>
-    <pubDate>Mon, 9 Oct 2017 21:06:58 +0000</pubDate>
-    <lastBuildDate>Mon, 9 Oct 2017 21:06:58 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2017 06:36:00 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2017 06:36:00 +0000</lastBuildDate>
 
+    
+    <item>
+      <title>O sétimo meetup do VigoJUG: Desarrollo de microservicios con Spring Boot</title>
+      <link>http://www.vigojug.org/blog/2017/20171010-seventh-meetup.html</link>
+      <pubDate>Sat, 7 Oct 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/2017/20171010-seventh-meetup.html</guid>
+      <description>
+      &lt;p&gt;Anunciamos unha nova meetup e repetimos con un ourensano. &lt;a href=&quot;https://twitter.com/vfdiaz&quot;&gt;Vitor Fernández&lt;/a&gt; é un analista senior que traballa para &lt;a href=&quot;http://optaresolutions.com/es/&quot;&gt;Optare Solutions&lt;/a&gt;, unha consultora viguesa. Vitor, además de ser un dos gañadores do noso Kahoot, leva un tempo embarcado &lt;a href=&quot;https://twitter.com/OptareVentures/status/907935114977595393&quot;&gt;nun gran proxecto para Más Móvil&lt;/a&gt; onde tivo a oportunidade de liderar a implantación de microservicios usando Spring Boot, un framework moi popular que se basa en Spring.&lt;/p&gt;
+&lt;p&gt;Esta charla será unha boa oportunidade de coñecer algunhas tecnoloxías modernas pero accesibles a todo o mundo.&lt;/p&gt;
+&lt;p&gt;A presentación da charla da man de Vitor: &lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Veremos cómo implementar de forma sencilla una arquitectura de microservicios con el framework Spring Boot. Mediante ejemplos prácticos, con unas pocas líneas de código pondremos en funcionamiento un API REST, utilizando las herramientas que nos facilita el ecosistema Spring.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Para abrir boca, os deixamos esta charla sobre o tema: Spring ha muerto... ¡Larga vida a Spring Boot!&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hDE_zVmxtDU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;O meetup farase &lt;a href=&quot;https://www.python-vigo.es/ubicacionkaleidocoworking.png&quot;&gt;no Kaleido Coworking&lt;/a&gt; as 19:30 o martes 7 de Novembro. O rexistro faise a través &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/244060357/&quot;&gt;da páxina do Meetup&lt;/a&gt;. A duración estimada será de 45-60 minutos, ademáis das preguntas e o Kahoot no que nos xogaremos algo ;-)&lt;/p&gt;
+&lt;p&gt;O rematar, e como marca a tradición, iremos tomar uns refrescos o bar do lado para charlar un rato, relaxarnos un pouco e coñecernos mellor.&lt;/p&gt;
+&lt;p&gt;¡Anímate! &lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>O sexto meetup do VigoJUG: "In-Memory Datagrid en arquitecturas de tiempo real"</title>
