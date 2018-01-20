@@ -1,0 +1,18 @@
+= Developer Vago 2: microbenchmarks, a caza dos erros máis habituais
+VigoJUG
+2018-01-20
+:jbake-type: post
+:jbake-tags: meetup
+:jbake-status: published
+
+Presentamos a segunda edición de Developer Vago. A idea é repetir a fórmula do anterior, que tivo moi boa acollida: unha formación sobre un tema básico pero importante, neste caso, os microbenchmark. Será unha sesión onde se explicarán os conceptos claves dende o principio, para ir avanzando. Haberá slides e tamén programación en vivo. Non será un meetup avanzado, calquera que teña nocións mínimas de programación pode vir. Para os usuarios máis expertos, tocaremos algúns trucos e solucións os erros típicos para mellorar a eficiencia dos vosos programas.
+
+image:images/carteis/developer-vago-2.png[Developer Vago 2]
+
+Despois da charla haberá opción de facer charlas cortas (5 min.), ¡non sexades tímidos/as!. Tamén se poderá plantexar un debate aberto se temos tempo, e, por suposto, o Kahoot no que nos xogaremos algo ;-)
+
+O meetup farase no link:images/kaleido.png[Kaleido Coworking], as 19:30 o martes 6 de Febreiro. O rexistro faise a través https://www.meetup.com/Vigo-JUG/events/246838531/[da páxina do Meetup]. A duración estimada será de 90 a 120 minutos.
+
+O rematar, e como marca a tradición, iremos tomar uns refrescos o bar do lado para charlar un rato, relaxarnos un pouco e coñecernos mellor.
+
+¡Anímate!
