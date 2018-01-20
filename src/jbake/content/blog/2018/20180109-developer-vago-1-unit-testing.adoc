@@ -7,9 +7,9 @@ VigoJUG
 
 Presentamos a primeira edición de Developer Vago, un nome importado do grupo de usuarios sevillano e que tivo moito éxito nesa cidade. A idea é facer unha formación sobre un tema básico pero importante, neste caso, as probas unitarias. Será unha sesión onde se explicarán os conceptos claves dende o principio, para ir avanzando. Haberá slides e tamén programación en vivo. Non será un meetup avanzado, calquera que teña nocións mínimas de programación pode vir. Para os usuarios máis expertos, tentaremos tocar algunhas librerias e trucos para que tamén os sexa de utilidade. Por exemplo, veremos:
 
-- JUnit 4: 
-- JUnit 5: 
-- Spock Framework: 
+- JUnit 4: http://junit.org/junit4/
+- JUnit 5: http://junit.org/
+- Spock Framework: http://spockframework.org/
 
 image:images/carteis/developer-vago-1.jpeg[Developer Vago 1]
 
