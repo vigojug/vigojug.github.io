@@ -6,9 +6,76 @@
     <atom:link href="http://www.vigojug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Vigo Java User Group</description>
     <language>es-es</language>
-    <pubDate>Tue, 10 Oct 2017 06:36:00 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Oct 2017 06:36:00 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Jan 2018 17:19:52 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Jan 2018 17:19:52 +0000</lastBuildDate>
 
+    
+    <item>
+      <title>Developer Vago 2: microbenchmarks, a caza dos erros máis habituais</title>
+      <link>http://www.vigojug.org/blog/2018/20180206-developer-vago-2-benchmarking.html</link>
+      <pubDate>Tue, 6 Feb 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/2018/20180206-developer-vago-2-benchmarking.html</guid>
+      <description>
+      &lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Presentamos a segunda edición de Developer Vago. A idea é repetir a fórmula do anterior, que tivo moi boa acollida: unha formación sobre un tema básico pero importante, neste caso, os microbenchmark. Será unha sesión onde se explicarán os conceptos claves dende o principio, para ir avanzando. Haberá slides e tamén programación en vivo. Non será un meetup avanzado, calquera que teña nocións mínimas de programación pode vir. Para os usuarios máis expertos, tocaremos algúns trucos e solucións os erros típicos para mellorar a eficiencia dos vosos programas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;images/carteis/developer-vago-2.png&quot; alt=&quot;Developer Vago 2&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Despois da charla haberá opción de facer charlas cortas (5 min.), ¡non sexades tímidos/as!. Tamén se poderá plantexar un debate aberto se temos tempo, e, por suposto, o Kahoot no que nos xogaremos algo ;-)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O meetup farase no &lt;a href=&quot;images/kaleido.png&quot;&gt;Kaleido Coworking&lt;/a&gt;, as 19:30 o martes 6 de Febreiro. O rexistro faise a través &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/246838531/&quot;&gt;da páxina do Meetup&lt;/a&gt;. A duración estimada será de 90 a 120 minutos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O rematar, e como marca a tradición, iremos tomar uns refrescos o bar do lado para charlar un rato, relaxarnos un pouco e coñecernos mellor.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;¡Anímate!&lt;/p&gt;
+&lt;/div&gt;
+	  </description>
+    </item>
+    
+    <item>
+      <title>Developer Vago 1: testing e probas unitarias</title>
+      <link>http://www.vigojug.org/blog/2018/20180109-developer-vago-1-unit-testing.html</link>
+      <pubDate>Tue, 9 Jan 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/2018/20180109-developer-vago-1-unit-testing.html</guid>
+      <description>
+      &lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Presentamos a primeira edición de Developer Vago, un nome importado do grupo de usuarios sevillano e que tivo moito éxito nesa cidade. A idea é facer unha formación sobre un tema básico pero importante, neste caso, as probas unitarias. Será unha sesión onde se explicarán os conceptos claves dende o principio, para ir avanzando. Haberá slides e tamén programación en vivo. Non será un meetup avanzado, calquera que teña nocións mínimas de programación pode vir. Para os usuarios máis expertos, tentaremos tocar algunhas librerias e trucos para que tamén os sexa de utilidade. Por exemplo, veremos:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;JUnit 4: &lt;a href=&quot;http://junit.org/junit4/&quot; class=&quot;bare&quot;&gt;http://junit.org/junit4/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JUnit 5: &lt;a href=&quot;http://junit.org/&quot; class=&quot;bare&quot;&gt;http://junit.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Spock Framework: &lt;a href=&quot;http://spockframework.org/&quot; class=&quot;bare&quot;&gt;http://spockframework.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;images/carteis/developer-vago-1.jpeg&quot; alt=&quot;Developer Vago 1&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O rematar a sesión, haberá opción de facer charlas cortas (5 min.) sobre algo relacionado co tema se alguén se anima (por favor, ¡fainos moita ilusión!). Tamén se poderá plantexar un debate aberto, e, por suposto, o Kahoot no que nos xogaremos algo ;-)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O meetup farase no &lt;a href=&quot;images/kaleido.png&quot;&gt;Kaleido Coworking&lt;/a&gt;, as 19:30 o martes 9 de Xaneiro. O rexistro faise a través &lt;a href=&quot;https://www.meetup.com/Vigo-JUG/events/246019156/&quot;&gt;da páxina do Meetup&lt;/a&gt;. A duración estimada será 90 minutos,&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O rematar, e como marca a tradición, iremos tomar uns refrescos o bar do lado para charlar un rato, relaxarnos un pouco e coñecernos mellor.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;¡Anímate!&lt;/p&gt;
+&lt;/div&gt;
+	  </description>
+    </item>
     
     <item>
       <title>O sétimo meetup do VigoJUG: Desarrollo de microservicios con Spring Boot</title>

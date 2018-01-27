@@ -2,18 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-    	<loc>http://www.vigojug.org/meetings.html</loc>
-    	<lastmod>2017-06-14</lastmod>
+    	<loc>http://www.vigojug.org/workshops.html</loc>
+    	<lastmod>2018-01-20</lastmod>
     </url>
 
     <url>
-    	<loc>http://www.vigojug.org/workshops.html</loc>
+    	<loc>http://www.vigojug.org/meetings.html</loc>
     	<lastmod>2017-06-14</lastmod>
     </url>
 
     <url>
     	<loc>http://www.vigojug.org/about.html</loc>
     	<lastmod>2017-02-28</lastmod>
+    </url>
+
+    <url>
+    	<loc>http://www.vigojug.org/blog/2018/20180206-developer-vago-2-benchmarking.html</loc>
+    	<lastmod>2018-02-06</lastmod>
+    </url>
+
+    <url>
+    	<loc>http://www.vigojug.org/blog/2018/20180109-developer-vago-1-unit-testing.html</loc>
+    	<lastmod>2018-01-09</lastmod>
     </url>
 
     <url>
