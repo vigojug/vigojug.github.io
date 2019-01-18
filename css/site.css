@@ -1,0 +1,204 @@
+.site-hero {
+    background-image: url('/img/hero-background.jpeg');
+    background-position: center bottom;
+    background-size: cover;
+    color: white;
+    position: relative;
+    padding-bottom: 40px;
+    margin-bottom: -20px;
+}
+
+.site-brand-image {
+    width: 240px;
+    margin-bottom: 30px;
+}
+
+.site-navbar {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.site-navbar a {
+    color: white;
+}
+
+.site-block-title {
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 30px 0;
+    color: #222;
+}
+
+.site-social-menu {
+    right: 0;
+    padding: 5px;
+    position: absolute;
+}
+
+.site-social {
+    padding: 5px;
+    font-size: 1.8rem;
+    transition: text-shadow .4s ease-in-out;
+}
+
+.site-social.twitter {
+    color: #00aced;
+}
+.site-social.twitter:hover {
+    text-shadow: 0 0 10px #fff;
+}
+
+.site-social.linkedin {
+    color: #0077B5;
+}
+.site-social.linkedin:hover {
+    text-shadow: 0 0 10px #fff;
+}
+
+.site-social.meetup {
+    color: #e51937;
+}
+.site-social.meetup:hover {
+    text-shadow: 0 0 10px #fff;
+}
+
+.site-social.github {
+    color: #222;
+}
+.site-social.github:hover {
+    text-shadow: 0 0 10px #fff;
+}
+
+.site-intro {
+    margin: 40px 40px;
+}
+
+.site-text-body {
+    text-align: center;
+    padding: 10px 20px 20px;
+    margin: 0 auto 40px;
+    font-size: 1.5rem;
+    font-weight: 200;
+    max-width: 720px;
+}
+
+.site-lang-logo {
+    width: 60%;
+    max-width: 160px;
+}
+
+.site-lang-label {
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #222;
+    text-align: center;
+}
+
+.site-no-upcoming-meetup {
+    display: none;
+}
+
+.site-block-spacer {
+    height: 30px;
+}
+
+.site-block-spacer.double {
+    height: 80px;
+}
+
+.site-meetup {
+    position: relative;
+    line-height: 0;
+}
+
+.site-meetup-info {
+    position: absolute;
+    text-transform: uppercase;
+    color: #aaa;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.site-meetup-info:hover {
+    opacity: 1;
+}
+
+.site-meetup-info span.name {
+    padding: 0 20px;
+    line-height: 1.6rem;
+    font-size: 1.3rem;
+    text-align: center;
+    color: #eee;
+    width: 100%;
+    position: absolute;
+    top: 36%;
+    transform: translate(0, -50%);
+}
+
+.site-meetup-info span.date {
+    line-height: 1rem;
+    font-size: 0.9rem;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 40px;
+}
+
+.site-meetup-info span.location {
+    line-height: 1rem;
+    font-size: 0.9rem;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 15px;
+}
+
+.upcoming-site-meetup {
+    max-width: 600px;
+    margin: 15px auto;
+}
+
+.site-vigotech-logo {
+    width: 80%;
+    max-width: 250px;
+    display: block;
+    margin: 0 auto 30px;
+}
+
+.footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.love {
+    color: #F22;
+}
+
+.site-dark-section {
+    padding: 30px 0;
+    background-color: #F1F1F1;
+}
+
+.site-sponsor-item {
+    width: 250px;
+}
+.site-sponsor-item.jetbrains {
+    width: 120px;
+}
+
+.site-slack-logo {
+    width: 200px;
+}
+
+.site-slack-container {
+    max-width: 800px;
+}
