@@ -1,316 +1,290 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8"/>
-    <title>VigoJUG</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta name="keywords" content="">
-    <meta name="generator" content="JBake">
-
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/asciidoctor.css" rel="stylesheet">
-    <link href="css/base.css" rel="stylesheet">
-    <link href="css/prettify.css" rel="stylesheet">
-    <link href="css/madeinvigotech.css" rel="stylesheet">
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="js/html5shiv.min.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">-->
-    <link rel="shortcut icon" href="favicon.ico">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>VigoJUG - Vigo JVM User Group</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+      integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="/css/site.css" />
+    <link rel="shortcut icon" href="favicon.ico" />
   </head>
-  <body onload="prettyPrint()">
-    <div id="wrap">
-
-<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a href="index.html">
-        <img class="nav navbar-nav navbar-left logo" src="images/logo.png"/>
-      </a>
-    </div>
-    <div class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li><a href="meetings.html">Charlas</a></li>
-          <li><a href="workshops.html">Obradoiros
-          </a></li>
-          <li><a href="http://www.vigotech.org/page/reto/">O reto</a></li>
-        <li><a href="http://vigotech.org">VigoTech Alliance</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Archivo <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            
-              <li><a href="/blog/2018/20180206-developer-vago-2-benchmarking.html">Developer Vago 2: microbenchmarks, a caza dos erros máis habituais</a></li>
-            
-              <li><a href="/blog/2018/20180109-developer-vago-1-unit-testing.html">Developer Vago 1: testing e probas unitarias</a></li>
-            
-              <li><a href="/blog/2017/20171010-seventh-meetup.html">O sétimo meetup do VigoJUG: Desarrollo de microservicios con Spring Boot</a></li>
-            
-              <li><a href="/blog/2017/20170907-sixth-meetup.html">O sexto meetup do VigoJUG: "In-Memory Datagrid en arquitecturas de tiempo real"</a></li>
-            
-              <li><a href="/blog/2017/20170714-fifth-meetup.html">O quinto meetup do VigoJUG: Java 9 más allá de la modularidad</a></li>
-            
-              <li><a href="/blog/2017/20170614-forth-meetup.html">O cuarto meetup do VigoJUG: Kotlin, o Java para o século XXI</a></li>
-            
-              <li><a href="/blog/2017/20170511-third-meetup.html">O terceiro meetup do VigoJUG</a></li>
-            
-              <li><a href="/blog/2017/20170510-second-meetup-summary.html">O resumo do segundo meetup</a></li>
-            
-              <li><a href="/blog/2017/20170401-first-meetup-summary.html">O resumo do primeiro meetup</a></li>
-            
-              <li><a href="/blog/2017/20170401-second-meetup.html">O segundo meetup do VigoJUG</a></li>
-            
-            <li class="divider"></li>
-            <li><a href="archive.html">Ver todos</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tag's <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            
-               <li><a href="/tags/blog.html">blog (10)</a></li>
-            
-               <li><a href="/tags/meetup.html">meetup (2)</a></li>
-            
-          </ul>
-        </li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="feed.xml">Feed RSS</a></li>
-        <li><a href="about.html">Sobre VigoJUG</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-xs-12">
-      <div class="header text-center">
-        <img src="images/banner.png" class="header-banner">
-      </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-lg-9 col-md-8">
-      <div class="siteblock">
-        
-        <span class="text-center">
-          <a href="blog/2018/20180206-developer-vago-2-benchmarking.html">
-            <h2>Developer Vago 2: microbenchmarks, a caza dos erros máis habituais</h2>
+  <body>
+    <section class="hero is-medium site-hero">
+      <nav class="site-navbar navbar" aria-label="main navigation">
+        <div class="site-social-menu">
+          <a
+            href="https://www.meetup.com/VigoJUG"
+            target="_blank"
+            class="site-social meetup"
+          >
+            <i class="fab fa-meetup"></i>
           </a>
-        </span>
-        <h6>06/02/2018</h6>
-        <p class="text-justify"><div class="paragraph">
-<p>Presentamos a segunda edición de Developer Vago. A idea é repetir a fórmula do anterior, que tivo moi boa acollida: unha formación sobre un tema básico pero importante, neste caso, os microbenchmark. Será unha sesión onde se explicarán os conceptos claves dende o principio, para ir avanzando. Haberá slides e tamén programación en vivo. Non será un meetup avanzado, calquera que teña nocións mínimas de programación pode vir. Para os usuarios máis expertos, tocaremos algúns trucos e solucións os erros típicos para mellorar a eficiencia dos vosos programas.</p>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="images/carteis/developer-vago-2.png" alt="Developer Vago 2"></span></p>
-</div>
-<div class="paragraph">
-<p>Despois da charla haberá opción de facer charlas cortas (5 min.), ¡non sexades tímidos/as!. Tamén se poderá plantexar un debate aberto se temos tempo, e, por suposto, o Kahoot no que nos xogaremos algo ;-)</p>
-</div>
-<div class="paragraph">
-<p>O meetup farase no <a href="images/kaleido.png">Kaleido Coworking</a>, as 19:30 o martes 6 de Febreiro. O rexistro faise a través <a href="https://www.meetup.com/Vigo-JUG/events/246838531/">da páxina do Meetup</a>. A duración estimada será de 90 a 120 minutos.</p>
-</div>
-<div class="paragraph">
-<p>O rematar, e como marca a tradición, iremos tomar uns refrescos o bar do lado para charlar un rato, relaxarnos un pouco e coñecernos mellor.</p>
-</div>
-<div class="paragraph">
-<p>¡Anímate!</p>
-</div></p>
-        <div class="text-center">
-          <hr width="60%"/>
-        </div>
-        
-        <span class="text-center">
-          <a href="blog/2018/20180109-developer-vago-1-unit-testing.html">
-            <h2>Developer Vago 1: testing e probas unitarias</h2>
+          <a
+            href="https://twitter.com/VigoJUG"
+            target="_blank"
+            class="site-social twitter"
+          >
+            <i class="fab fa-twitter"></i>
           </a>
-        </span>
-        <h6>09/01/2018</h6>
-        <p class="text-justify"><div class="paragraph">
-<p>Presentamos a primeira edición de Developer Vago, un nome importado do grupo de usuarios sevillano e que tivo moito éxito nesa cidade. A idea é facer unha formación sobre un tema básico pero importante, neste caso, as probas unitarias. Será unha sesión onde se explicarán os conceptos claves dende o principio, para ir avanzando. Haberá slides e tamén programación en vivo. Non será un meetup avanzado, calquera que teña nocións mínimas de programación pode vir. Para os usuarios máis expertos, tentaremos tocar algunhas librerias e trucos para que tamén os sexa de utilidade. Por exemplo, veremos:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>JUnit 4: <a href="http://junit.org/junit4/" class="bare">http://junit.org/junit4/</a></p>
-</li>
-<li>
-<p>JUnit 5: <a href="http://junit.org/" class="bare">http://junit.org/</a></p>
-</li>
-<li>
-<p>Spock Framework: <a href="http://spockframework.org/" class="bare">http://spockframework.org/</a></p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="images/carteis/developer-vago-1.jpeg" alt="Developer Vago 1"></span></p>
-</div>
-<div class="paragraph">
-<p>O rematar a sesión, haberá opción de facer charlas cortas (5 min.) sobre algo relacionado co tema se alguén se anima (por favor, ¡fainos moita ilusión!). Tamén se poderá plantexar un debate aberto, e, por suposto, o Kahoot no que nos xogaremos algo ;-)</p>
-</div>
-<div class="paragraph">
-<p>O meetup farase no <a href="images/kaleido.png">Kaleido Coworking</a>, as 19:30 o martes 9 de Xaneiro. O rexistro faise a través <a href="https://www.meetup.com/Vigo-JUG/events/246019156/">da páxina do Meetup</a>. A duración estimada será 90 minutos,</p>
-</div>
-<div class="paragraph">
-<p>O rematar, e como marca a tradición, iremos tomar uns refrescos o bar do lado para charlar un rato, relaxarnos un pouco e coñecernos mellor.</p>
-</div>
-<div class="paragraph">
-<p>¡Anímate!</p>
-</div></p>
-        <div class="text-center">
-          <hr width="60%"/>
-        </div>
-        
-        <span class="text-center">
-          <a href="blog/2017/20171010-seventh-meetup.html">
-            <h2>O sétimo meetup do VigoJUG: Desarrollo de microservicios con Spring Boot</h2>
+          <a
+            href="https://www.linkedin.com/company/vigojug/"
+            target="_blank"
+            class="site-social linkedin"
+          >
+            <i class="fab fa-linkedin"></i>
           </a>
-        </span>
-        <h6>07/10/2017</h6>
-        <p class="text-justify"><p>Anunciamos unha nova meetup e repetimos con un ourensano. <a href="https://twitter.com/vfdiaz">Vitor Fernández</a> é un analista senior que traballa para <a href="http://optaresolutions.com/es/">Optare Solutions</a>, unha consultora viguesa. Vitor, además de ser un dos gañadores do noso Kahoot, leva un tempo embarcado <a href="https://twitter.com/OptareVentures/status/907935114977595393">nun gran proxecto para Más Móvil</a> onde tivo a oportunidade de liderar a implantación de microservicios usando Spring Boot, un framework moi popular que se basa en Spring.</p>
-<p>Esta charla será unha boa oportunidade de coñecer algunhas tecnoloxías modernas pero accesibles a todo o mundo.</p>
-<p>A presentación da charla da man de Vitor: </p>
-<blockquote>
-  <p>Veremos cómo implementar de forma sencilla una arquitectura de microservicios con el framework Spring Boot. Mediante ejemplos prácticos, con unas pocas líneas de código pondremos en funcionamiento un API REST, utilizando las herramientas que nos facilita el ecosistema Spring.</p>
-</blockquote>
-<p>Para abrir boca, os deixamos esta charla sobre o tema: Spring ha muerto... ¡Larga vida a Spring Boot!</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hDE_zVmxtDU?rel=0" frameborder="0" allowfullscreen></iframe>
-<p>O meetup farase <a href="https://www.python-vigo.es/ubicacionkaleidocoworking.png">no Kaleido Coworking</a> as 19:30 o martes 7 de Novembro. O rexistro faise a través <a href="https://www.meetup.com/Vigo-JUG/events/244060357/">da páxina do Meetup</a>. A duración estimada será de 45-60 minutos, ademáis das preguntas e o Kahoot no que nos xogaremos algo ;-)</p>
-<p>O rematar, e como marca a tradición, iremos tomar uns refrescos o bar do lado para charlar un rato, relaxarnos un pouco e coñecernos mellor.</p>
-<p>¡Anímate! </p></p>
-        <div class="text-center">
-          <hr width="60%"/>
-        </div>
-        
-        <span class="text-center">
-          <a href="blog/2017/20170907-sixth-meetup.html">
-            <h2>O sexto meetup do VigoJUG: "In-Memory Datagrid en arquitecturas de tiempo real"</h2>
+          <a
+            href="https://github.com/vigojug"
+            target="_blank"
+            class="site-social github"
+          >
+            <i class="fab fa-github"></i>
           </a>
-        </span>
-        <h6>07/09/2017</h6>
-        <p class="text-justify"><p>Anunciamos unha nova meetup, desta volta outra vez cun poñente que ven de fora (ainda que é ourensano), neste caso dende Barcelona, e de moita altura. <a href="https://www.linkedin.com/in/miguel-garcia-lorenzo-63a69b33/">Miguel García</a> traballa para Oracle no rol de Arquitecto Cloud. É unha persoa con moito coñecemento en arquitectura de grandes sistemas e que pasou por grandes empresas (Tele2, Vodafone, Mercadona, Inditex). </p>
-<p>A charla será para todo o mundo, se falará de patrones de arquitecturas e sistemas distribuidos en tempo real dende unha visión máis de iniciación ata profundizar. Ademáis, aínda que falará de Coherence (basado en Java), a charla é de utilidade noutros proxectos tamén.</p>
-<p>A presentación da charla da man de Miguel:</p>
-<blockquote>
-  <p>"Actualmente las empresas necesitan gestionar un gran volumen de información y además hacerlo en tiempo real para poder tomar decisiones que les permitan anticiparse a las necesidades cambiantes tanto de sus clientes y como del mercado.</p>
-  <p>En este contexto no solo podemos afirmar que las soluciones Big Data se han consolidado, sino que se encuentran en un proceso de innovación constante, esto contrasta con la apuesta del mercado por nuevas arquitecturas de tipo Fast Data y Lambda.</p>
-  <p>En esta charla abordaremos el rol del componente “In-Memory Datagrid” dentro de las arquitecturas de tiempo real, así como una visión más técnica que incluye arquitecturas de referencia y la automatización de procesos de provisión de la plataforma."</p>
-</blockquote>
-<p>O meetup farase no Kaleido Coworking as 19:30 o martes 3 de Outubro. O rexistro faise a través da páxina do <a href="https://www.meetup.com/Vigo-JUG/events/243175174/">Meetup</a>. A duración estimada será de 45-60 minutos, ademáis das preguntas e o Kahoot ;-)</p>
-<p>O rematar, e como marca a tradición, iremos tomar unhas cervexas o bar do lado para charlar un rato, relaxarnos un pouco e coñecernos.</p>
-<p>¡Anímate!</p>
-<p>P.D.: temos <a href="https://www.meetup.com/Vigo-JUG/events/241904216/">un taller de iniciación (ou refresco!)</a> xa axendado para o 19 de Setembro e <a href="https://www.meetup.com/Vigo-JUG/events/242795303/">un taller de Troubleshooting na JVM</a> o 10 de Outubro. </p></p>
-        <div class="text-center">
-          <hr width="60%"/>
         </div>
-        
-        <span class="text-center">
-          <a href="blog/2017/20170714-fifth-meetup.html">
-            <h2>O quinto meetup do VigoJUG: Java 9 más allá de la modularidad</h2>
-          </a>
-        </span>
-        <h6>14/07/2017</h6>
-        <p class="text-justify"><p>Anunciamos unha nova meetup, desta volta moi especial: un poñente que ven de fora e de moito nivel: <a href="https://twitter.com/dgomezg">David Gómez</a>. Consultor Tecnolóxico en Autentia e poñente en eventos como Voxxed Days Zurich 2016, JBCNConf (2015, 2016 y 2017), Spring IO (2011, 2012 y 2015), Codemotion Madrid 2012, Mediterranea API Days 2013, DeCharlas (2010 y 2016); ademáis de charlas en varios meetups en Barcelona, Madrid, Castellón, Valencia e Málaga.</p>
-<p>A charla, sobre Java 9, non é de iniciación, pero David fará o posible por poñer todo en contexto e a charla merece moito a pena para calquera que toque Java dalgún xeito.</p>
-<p>A presentación da charla da man de David:</p>
-<blockquote>
-  <p>Java 9 está a punto de alcanzar su release pública tras algunos retrasos. Y, si preguntamos cuáles son las novedades que esta nueva versión incluirá, seguro que la primera que viene a nuestra cabeza es la modularidad.</p>
-  <p>Pero en esta charla no hablaremos de Jigsaw ni de modularidad (al menos no mucho). En esta charla hablaremos de otras muchas características que incluye esta nueva versión de Java que son interesantes y que, quizá, acaben siendo más utilizadas que la propia modularidad para aquellos que abracen la nueva versión.</p>
-  <p>Haremos un repaso desde los pequeños cambios en la sintaxis del lenguaje (como nuevas formas de uso del try-with-resources), cambios en las APIs de Colecciones y en los Streams, nuevas construcciones como los VarHandles (en sustitución de UnSafe), hasta nuevas APIs como el Flow API y como nos permite la inclusión de programación reactiva con Java.</p>
-  <p>¿quieres ver qué hay en Java 9 más allá de la modularidad? ¿quieres tener una visión más completa de qué puede proporcionarte? ¡Ven y lo vemos!</p>
-</blockquote>
-<p><img src="/images/carteis/cartel5.jpeg" alt="Cartel Autentia" /></p>
-<p>O meetup farase no Kaleido Coworking as 19:30 o martes 5 de Setembro. O rexistro faise a través da páxina do <a href="https://www.meetup.com/Vigo-JUG/events/242438812/">Meetup</a>.</p>
-<p>O rematar, e como marca a tradición, iremos tomar unhas cervexas o bar do lado para charlar un rato e relaxarnos un pouco.</p>
-<p>¡Anímate!</p>
-<p>P.D.: temos <a href="https://www.meetup.com/Vigo-JUG/events/241904216/">un taller de iniciación (ou refresco!)</a> xa axendado para o 19 de Setembro.</p></p>
-        <div class="text-center">
-          <hr width="60%"/>
-        </div>
-        
-        <div class="more-posts">
-          Posts más antiguos en nuestro <a href="archive.html">archivo</a>.
+      </nav>
+      <div class="hero-body">
+        <div class="container has-text-centered">
+          <img
+            src="/img/vigojug-logo.png"
+            class="site-brand-image"
+            alt="VigoJug"
+          />
+          <h1 class="title has-text-white">VigoJUG</h1>
+          <h2 class="subtitle has-text-white">Vigo JVM User Group</h2>
         </div>
       </div>
-    </div>
-    <div class="col-lg-3 col-md-4">
-      <div class="siteblock">
-  <div class="partners-block">
-    <h4>Colaboradores</h4>
-    <a href="http://www.optaresolutions.com"><img src="images/logo_optare.png"/></a>
-    <a href="http://www.kaleidocoworking.com/"><img src="images/logo_kaleido.png"/></a>
-    <a href="http://www.jetbrains.com/"><img src="images/logo_jetbrains.png"/></a>
-  </div>
-
-  <div class="meetup-block">
-    <iframe class="meetup-iframe" src="http://meetu.ps/37hH78" frameborder="0"></iframe>
-  </div>
-
-  <div class="twitter-block">
-    <a class="twitter-timeline" data-height="400" data-link-color="#19CF86" href="https://twitter.com/VigoJUG">Tweets by VigoJUG</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-</div>
-
-    </div>
-  </div>
-</div>
-<div id="push"></div>
-
-
-    <div id="footer">
+    </section>
+    <section class="site-intro">
       <div class="container">
-        <div class="row">
-          <div class="col-md-8 text-justify">
-              <div>
-  <a href="https://twitter.com/vigojug" class="twitter-follow-button">Follow @vigojug</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> &nbsp;|&nbsp; <a class="github-button" href="https://github.com/vigojug" data-count-href="/vigojug/followers" data-count-api="/users/vigojug#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @vigojug on GitHub">Follow @vigojug</a>
-                  <script async defer src="https://buttons.github.io/buttons.js"></script> &nbsp;|&nbsp; <a href="https://slackin-vigotech.herokuapp.com/">
-                  <img src="/images/slack.png"> <a href="http://www.vigotech.org">VigoTech</a> (Canal: <b>#vigojug</b>) &nbsp;|&nbsp; Baked with <a href="http://jbake.org">JBake</a>
-                  </a>
-              </div>
+        <div class="site-text-body">
+          Vigo JVM User Group (or VigoJUG that is shorter) is a tech community
+          born in Vigo with the purpose of join professional and amateurs
+          programmers or even non technical people that want to learn about
+          everything that runs over the JVM...
+        </div>
+        <div class="columns is-vcentered  is-mobile">
+          <div class="column has-text-centered">
+            <img src="/img/langs/java.png" class="site-lang-logo" alt="Java" />
           </div>
-          <div class="col-md-offset-1 col-md-3">
-                                <a href="http://vigotech.org" class="vigotech-claim">
-                      Feito con <i class="vt-pinecone"></i> en <strong>Vigo</strong>
-                  </a>
+          <div class="column has-text-centered">
+            <img
+              src="/img/langs/kotlin.png"
+              class="site-lang-logo"
+              alt="Kotlin"
+            />
+          </div>
+          <div class="column has-text-centered">
+            <img
+              src="/img/langs/groovy.png"
+              class="site-lang-logo"
+              alt="Groovy"
+            />
+          </div>
+          <div class="column has-text-centered">
+            <img
+              src="/img/langs/scala.png"
+              class="site-lang-logo"
+              alt="Scala"
+            />
+          </div>
+        </div>
+        <div class="columns is-mobile">
+          <div class="column"><h4 class="site-lang-label">Java</h4></div>
+          <div class="column"><h4 class="site-lang-label">Kotlin</h4></div>
+          <div class="column"><h4 class="site-lang-label">Groovy</h4></div>
+          <div class="column"><h4 class="site-lang-label">Scala</h4></div>
+        </div>
+      </div>
+    </section>
+    <div class="site-block-spacer"></div>
+    <section class="site-dark-section">
+      <h3 class="site-block-title">"facendo piña" with VigoTech Alliance</h3>
+      <div class="has-text-centered">
+        <div class="site-text-body">
+          <a href="https://vigotech.org/" target="_blank">
+            <img
+              src="/img/vigotech-logo.png"
+              class="site-vigotech-logo"
+              alt="VigoTech Alliance"
+            />
+          </a>
+          <a href="https://vigotech.org/" target="_blank">VigoTech Alliance</a>
+          is an open community that groups all the tech communities from Vigo in
+          only one place, this makes that all of the technical groups form the
+          city works together in the same direction and also makes more easy
+          share knowledge and resources between them.
+        </div>
+      </div>
+    </section>
+    <div class="site-block-spacer"></div>
+    <section>
+      <h3 class="site-block-title">Upcoming Meetup</h3>
+      <div class="has-text-centered">
+        <div class="site-no-upcoming-meetup" id="no-upcoming-meetup">
+          <p>We have not yet confirmed our next meetup</p>
+          <br />
+        </div>
+        <div class="container"><div id="upcoming-meetups-container"></div></div>
+      </div>
+    </section>
+    <div class="site-block-spacer"></div>
+    <div class="has-text-centered">
+      <a href="/" class="button is-info is-medium">Do you have an idea?</a>
+    </div>
+    <div class="site-block-spacer"></div>
+    <div class="site-block-spacer"></div>
+    <section class="site-dark-section">
+      <h3 class="site-block-title">Past Meetups</h3>
+      <div class="container">
+        <div class="columns is-multiline" id="past-meetups-container"></div>
+        <div class="is-clearfix"></div>
+      </div>
+    </section>
+    <div class="site-block-spacer"></div>
+    <section>
+      <h3 class="site-block-title">Sponsors</h3>
+      <div class="site-text-body">
+        This group or community is possible thanks to all our sponsors that give
+        us the prizes that we give in the meetups, the place to do the meetups
+        itself along with other resources and the post-meetup beers.
+      </div>
+      <div class="container">
+        <div class="columns is-vcentered has-text-centered">
+          <div class="column">
+            <a href="https://jetbrains.com" target="_blank">
+              <img
+                class="site-sponsor-item jetbrains"
+                src="img/sponsors/jetbrains.png"
+                alt="Jetbrains"
+              />
+            </a>
+          </div>
+          <div class="column">
+            <a href="http://kaleidocoworking.com/" target="_blank">
+              <img
+                class="site-sponsor-item kaleido"
+                src="img/sponsors/kaleido-coworking.png"
+                alt="Kaleido Coworking"
+              />
+            </a>
+          </div>
+          <div class="column">
+            <a href="https://optaresolutions.com" target="_blank">
+              <img
+                class="site-sponsor-item optare"
+                src="img/sponsors/optaresolutions.png"
+                alt="Optaresolutions"
+              />
+            </a>
+          </div>
+        </div>
+        <div class="is-clearfix"></div>
+      </div>
+    </section>
+    <div class="site-block-spacer"></div>
+    <section class="site-dark-section">
+      <h3 class="site-block-title">Get in touch</h3>
+      <div class="container site-slack-container">
+        <div class="columns is-vcentered has-text-centered">
+          <div class="column is-one-third">
+            <a href="https://vigotechalliance.slack.com/" target="_blank">
+              <img
+                src="/img/slack-logo.png"
+                class="site-slack-logo"
+                alt="Join to the VigoTech Alliance slack"
+              />
+            </a>
+          </div>
+          <div class="column is-two-thirds">
+            <p>
+              We are on <strong>#VigoJUG</strong> channel inside the
+              <strong>VigoTech slack group</strong>.
+            </p>
+            <p>
+              <a href="https://vigotechalliance.slack.com/" target="_blank"
+                >Join us!</a
+              >
+              is free and is a good place for networking and there are other
+              interesting channels from the other Vigo tech communities.
+            </p>
+          </div>
+        </div>
+        <div class="is-clearfix"></div>
+      </div>
+    </section>
+    <footer class="footer">
+      <div class="content has-text-centered">
+        Made with <i class="love fas fa-heart"></i> from the VigoJUG community
+        using <a href="https://bulma.io/" target="_blank">bulma</a>,
+        <a href="https://code.jquery.com/" target="_blank">jquery</a>,
+        <a href="https://www.jsviews.com" target="_blank">jsrender</a> and
+        <a href="https://fontawesome.com/" target="_blank">fontawesome</a>.
+      </div>
+    </footer>
+    <script id="upcoming-meetup-template" type="text/x-jsrender">
+      <div class="upcoming-site-meetup">
+        <div class="card is-large">
+          <div class="card-image">
+            <figure class="image is-16by9">
+              <img src="{{:featured_photo.photo_link}}" alt="{{:name}}" />
+            </figure>
+          </div>
+          <div class="card-content">
+            <h3 class="has-text-centered is-size-4">{{:name}}</h3>
+            <div class="date">
+              <i class="far fa-calendar-alt"></i>
+              {{:formated_date}}
+            </div>
+            <div class="location">
+              <i class="fas fa-map-marker-alt"></i>
+              {{:venue.name}}
+            </div>
+            <div class="site-block-spacer"></div>
+            <a href="{{:link}}" target="_blank" class="button is-danger">Ver en meetup</a>
           </div>
         </div>
       </div>
-    </div>
-
-    <!-- Le javascript -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery-1.11.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/prettify.js"></script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-94025635-1', 'auto');
-      ga('send', 'pageview');
-
     </script>
-
+    <script id="past-meetup-template" type="text/x-jsrender">
+      <div class="column is-one-third">
+        <div class="site-meetup">
+          <a href="{{:link}}" target="_blank">
+            <div class="site-meetup-info">
+              <span class="name">{{:name}}</span>
+              <span class="date">
+                <i class="far fa-calendar-alt"></i>
+                {{:formated_date}}
+              </span>
+              <span class="location">
+                <i class="fas fa-map-marker-alt"></i>
+                {{:venue.name}}
+              </span>
+            </div>
+            <img src="{{:featured_photo.photo_link}}" alt="{{:name}}" />
+          </a>
+        </div>
+      </div>
+    </script>
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jsrender/1.0.1/jsrender.min.js"
+      integrity="sha256-21dXJfiOXB1D/8kEXbDI0NB5qcUVUnkS3qgyOya/M6k="
+      crossorigin="anonymous"
+    ></script>
+    <script src="js/meetups-fetcher.js"></script>
   </body>
 </html>
-
