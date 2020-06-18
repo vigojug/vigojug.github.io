@@ -195,6 +195,18 @@
     width: 120px;
 }
 
+.site-sponsor-item.codely {
+    width: 200px;
+}
+
+.site-sponsor-item.optare {
+    width: 250px;
+}
+
+.site-sponsor-item.corunet {
+    width: 120px;
+}
+
 .site-slack-logo {
     width: 200px;
 }
